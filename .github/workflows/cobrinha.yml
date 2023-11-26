@@ -29,4 +29,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_PRIVATE_KEY: ${{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}}
