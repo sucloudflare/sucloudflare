@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Eu sou o Edson Bruno</h2>
 
-<div align="center">
+<div>
   <img alt='dev' src='./dev.gif'>
 </div>
 
