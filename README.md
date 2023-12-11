@@ -18,7 +18,7 @@
 
   <h3 align="center">Linguagens e frameworks</h3>
 
-  <div style="display: flex; flex-direction: column; align-items: center"><br>
+  <div style="display: flex; flex-direction: column; align="center"><br>
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -34,7 +34,7 @@
 
   <h3 align="center">Sistemas Operacionais e IDEs</h3>
 
-  <div style="display: flex; flex-direction: column; align-items: center"><br>
+  <div style="display: flex; flex-direction: column; align="center"><br>
     <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
     <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
     <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
