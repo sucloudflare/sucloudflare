@@ -1,3 +1,4 @@
+<body bgcolor="lightblue"> 
 <h2 align="center">Olá! Eu sou o Edson Bruno</h2>
 
 <div align="center">
@@ -58,3 +59,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+</body>
