@@ -20,7 +20,7 @@
   <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </div>
 
-<h3>Sistema Operacional e IDE</h3>
+<h3>Sistemas Operacionais e IDEs</h3>
 
 <div style="display: inline_block; flex-direction: column; align-items: flex-start"><br>
   <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
