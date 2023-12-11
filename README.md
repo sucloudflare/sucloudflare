@@ -4,7 +4,7 @@
 </di>
 <br>
 <br>
- <div style="flex: 1; text-align: center;">
+ <div style="flex: 1; text-align:;">
  <img alt='dev' src='./dev.gif' style="max-width: 100%;">
   <a href="edsonbruno.kesug.com">www.deepweb.com</a>
 </div>
