@@ -31,7 +31,7 @@
 
 <h3 aling="center">Sistemas Operacionais e IDEs</h3>
 
-<div height="180emstyle="display: flex; flex-direction: column; align-items: center"><br>
+<div style="display: flex; flex-direction: column; align-items: center"><br>
   <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
