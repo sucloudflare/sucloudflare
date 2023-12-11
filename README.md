@@ -3,7 +3,6 @@
 </h1>
 </di>
 <br>
-<br>
  <div style="flex: 1; text-align:;">
  <img alt='dev' src='./dev.gif' style="max-width: 100%;">
   <br>
