@@ -1,4 +1,5 @@
-<h2>Olá! Eu sou o Edson Bruno</h2>
+<h2 border-buttom: 3px solid balck>Olá! Eu sou o Edson Bruno</h2>
+
 <img align='center' alt='dev' src='./dev.gif' display: flex; justify-content: center; align-item:center>
 <div>
   <a href="https://github.com/sucloudflare">
