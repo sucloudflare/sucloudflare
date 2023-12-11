@@ -1,4 +1,4 @@
-<h2 border-buttom: 3px solid balck>Olá! Eu sou o Edson Bruno</h2>
+<h2 style:='display: 'border-buttom: 3px solid balck>Olá! Eu sou o Edson Bruno</h2>
 
 <img align='center' alt='dev' src='./dev.gif' display: flex; justify-content: center; align-item:center>
 <div>
