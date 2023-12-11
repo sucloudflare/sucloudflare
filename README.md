@@ -28,3 +28,5 @@
 </div>
 <img align='center' alt='dev' src='./dev.gif'>
 
+  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDSONBRUNOS&amp;langs_count=6&amp;theme=transparent&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
+
