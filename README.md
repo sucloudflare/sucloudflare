@@ -4,8 +4,9 @@
 </di>
 <br>
 <br>
- <div style="flex: 1; text-align: left;">
+ <div style="flex: 1; text-align: center;">
  <img alt='dev' src='./dev.gif' style="max-width: 100%;">
+  <p>Olá deem uma olhada no meu linkedin também!!!</p>
 </div>
 <br>
 <br>
