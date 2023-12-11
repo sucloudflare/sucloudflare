@@ -7,25 +7,37 @@
 </div>
 <h3>Linguagens</h3>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; flex-direction: column; align-items: flex-start"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <h3>Frameworks</h3>
+</div>
+
+<h3>Frameworks</h3>
+
+<div style="display: inline_block; flex-direction: column; align-items: flex-start"><br>
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <h3>Sistema Operacional</h3>
+  <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+</div>
+
+<h3>Sistema Operacional</h3>
+
+<div style="display: inline_block; flex-direction: column; align-items: flex-start"><br>
   <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
-   <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
-  <h3>IDE</h3>
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
+</div>
+
+<h3>IDE</h3>
+
+<div style="display: inline_block; flex-direction: column; align-items: flex-start"><br>
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
+
 <h2>Redes Sociais</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielFelipeS/GabrielFelipeS/output/github-contribution-grid-snake-dark.svg">
