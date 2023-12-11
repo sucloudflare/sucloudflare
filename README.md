@@ -1,4 +1,5 @@
 <h2>Olá! Eu sou o Edson Bruno</h2>
+<img align='center' alt='dev' src='./dev.gif' display: flex; justify-content: center; align-item:center>
 <div>
   <a href="https://github.com/sucloudflare">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -46,4 +47,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
-<img align='center' alt='dev' src='./dev.gif'>
+
