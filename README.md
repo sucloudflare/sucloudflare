@@ -1,10 +1,12 @@
+<di>
 <h1>Olá! Eu sou o Edson Bruno
- <br>
+</h1>
+</di>
+<br>
+<br>
  <div style="flex: 1; text-align: left;">
  <img alt='dev' src='./dev.gif' style="max-width: 100%;">
 </div>
- <br>
-</h1>
 <br>
 <br>
 <div align="center">
