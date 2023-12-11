@@ -1,14 +1,13 @@
 
-<body style="background-color: #f0f0f0; text-align: center;">
 
-    <h2 style="width: 80%; max-width: 800px; margin: 20px auto;">Olá! Eu sou o Edson Bruno</h2>
 
-    <div style="display: flex; flex-direction: row; justify-content: space-between; width: 80%; max-width: 800px; margin: 0 auto;">
+ <h2 style="width: 80%; max-width: 800px; margin: 20px auto;">Olá! Eu sou o Edson Bruno</h2>
+
+  <div style="display: flex; flex-direction: row; justify-content: space-between; width: 80%; max-width: 800px; margin: 0 auto;">
         <div style="flex: 1; margin-right: 10px;">
             <img alt='dev' src='./dev.gif' style="max-width: 100%;">
         </div>
-
-        <div style="flex: 1;">
+     <div style="flex: 1;">
             <h3>&lt;/helloworld!&gt;</h3>
             <a href="https://github.com/sucloudflare">
                 <img height="180em"
@@ -21,7 +20,7 @@
         </div>
     </div>
 
-    <div style="display: flex; flex-direction: row; justify-content: space-between; width: 80%; max-width: 800px; margin: 20px auto;">
+   <div style="display: flex; flex-direction: row; justify-content: space-between; width: 80%; max-width: 800px; margin: 20px auto;">
         <div style="flex: 1; margin-right: 10px;">
             <h3>Linguagens e frameworks</h3>
             <img alt="JavaScript" height="30" width="40"
@@ -29,25 +28,22 @@
                 style="max-width: 100%;">
             <!-- Adicione outras imagens aqui -->
         </div>
-
-        <div style="flex: 1;">
-            <h3>Sistemas Operacionais e IDEs</h3>
+       <div style="flex: 1;">
+          <h3>Sistemas Operacionais e IDEs</h3>
             <img alt="Kali Linux" height="30" width="40"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg"
                 style="max-width: 100%;">
             <!-- Adicione outras imagens aqui -->
         </div>
     </div>
-
     <h2 style="width: 80%; max-width: 800px; margin: 20px auto;">Redes Sociais</h2>
 
-    <div style="display: flex; flex-direction: row; justify-content: space-between; width: 80%; max-width: 800px; margin: 0 auto;">
+   <div style="display: flex; flex-direction: row; justify-content: space-between; width: 80%; max-width: 800px; margin: 0 auto;">
         <div>
             <img alt="github contribution grid snake animation"
                 src="https://raw.githubusercontent.com/sucloudflare/sucloudflare/output/github-contribution-grid-snake.svg"
                 style="max-width: 100%;">
         </div>
-
         <div>
             <h2>Contato</h2>
             <a href="https://instagram.com/rat_cloud6" target="_blank">
@@ -65,4 +61,3 @@
         </div>
     </div>
 
-</body>
