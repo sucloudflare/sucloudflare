@@ -1,20 +1,22 @@
 <h1>Olá! Eu sou o Edson Bruno</h1>
-   <div style="width: 80%; max-width: 800px; margin: 20px auto; display: flex; justify-content: space-between; align-items: flex-start;">
+  <div class="container" style="background-color: #f0f0f0; text-align: center;">
+    <div style="width: 80%; max-width: 800px; margin: 20px auto; display: flex; justify-content: space-between;">
+            <div style="flex: 1; text-align: left;">
+                <img alt='dev' src='./dev.gif' style="max-width: 100%;">
+            </div>
+       <div style="flex: 1; text-align: left;">
+                <a href="https://github.com/sucloudflare">
+                    <img height="180em"
+                        src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+                        alt="GitHub Stats" style="max-width: 100%;">
+                    <br>
+                    <img height="180em"
+                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=16&theme=dracula"
+                        alt="Top Languages" style="max-width: 100%;">
+                </a>
+            </div>
 
-  <div style="flex: 1; text-align: left;">
-            <img alt='dev' src='./dev.gif' style="max-width: 100%;">
-            <br>
-            <a href="https://github.com/sucloudflare">
-                <img height="180em"
-                    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-                    alt="GitHub Stats" style="max-width: 100%;">
-                <br>
-                <img height="180em"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=16&theme=dracula"
-                    alt="Top Languages" style="max-width: 100%;">
-            </a>
-        </div>
-
+   /div>
     </div>
 <br>
 <br>
