@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou o Edson Bruno</h2>
+<h1>Olá! Eu sou o Edson Bruno</h1>
 
 <div>
   <img alt='dev' src='./dev.gif'>
