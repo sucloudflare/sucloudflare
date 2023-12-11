@@ -28,5 +28,9 @@
 </div>
 <img align='center' alt='dev' src='./dev.gif'>
 
-  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&amp;langs_count=6&amp;theme=transparent&amp;layout=compact&amp;hide_border=true" alt="david :: overall Top Langs "></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielFelipeS/GabrielFelipeS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sucloudflare/sucloudflare/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sucloudflare/sucloudflare/output/github-contribution-grid-snake.svg">
+</picture>
 
