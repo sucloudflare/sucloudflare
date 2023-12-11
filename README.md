@@ -4,7 +4,7 @@
   <img alt='dev' src='./dev.gif'>
 </div>
 <div align='center'>
-  <h2>&lt;helloworld!&gt;</h2>
+  <h1>/&lt;helloworld!&gt;</h1>
   </div>
 <div align="center">
   <a href="https://github.com/sucloudflare">
