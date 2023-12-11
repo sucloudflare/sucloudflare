@@ -6,6 +6,7 @@
 <br>
  <div style="flex: 1; text-align:;">
  <img alt='dev' src='./dev.gif' style="max-width: 100%;">
+  <br>
   <a href="edsonbruno.kesug.com">www.deepweb.com.br</a>
 </div>
 <br>
