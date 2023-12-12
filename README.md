@@ -2,13 +2,6 @@
   <h1>Olá! Eu sou o Edson Bruno</h1>
 </div>
 <br>
-<div style="flex: 1; text-align: center;">
-  <img alt='dev' src='./dev.gif' style="max-width: 100%;">
-  <br>
-  <a href="http://edsonbruno.kesug.com/?i=1">www.deepweb.com.br</a>
-</div>
-<br>
-<br>
 <div align="center">
   <a href="https://github.com/sucloudflare">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
