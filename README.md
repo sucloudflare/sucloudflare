@@ -27,10 +27,10 @@
 
 <h3 align="center">Sistemas Operacionais e IDEs</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center;"><br>
-  <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
+  <img alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
+  <img alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
 <h2 align="center">Snake</h2>
