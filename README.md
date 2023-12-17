@@ -33,7 +33,7 @@
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
-<h2 align="center">Redes Sociais</h2>
+<h2 align="center">Snake</h2>
 
 <div style="text-align: center;">
   <picture>
