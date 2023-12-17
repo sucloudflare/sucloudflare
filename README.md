@@ -34,16 +34,9 @@
 </div>
 
 <h2 align="center">Snake</h2>
-
- 
- 
-<div> 
-  <a href = "mailto:ofbsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ofbsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/sucloudflare/othonet/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 <div align="center"> 
   <h2>Contato</h2>
