@@ -10,7 +10,7 @@
   <h1>Olá! Eu sou o Edson Bruno</h1>
 </div>
 <br>
-<div align="center">
+<div align="">
   <a href="https://github.com/sucloudflare">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=7&theme=react"/>
