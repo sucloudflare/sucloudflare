@@ -1,4 +1,8 @@
-<div style="text-align: center;">
+<div align="center">
+  <p>Desenvolvedor apaixonado pela criação de experiências digitais inovadoras, acessíveis e impactantes para os usuários, atuando como full stack e front-end. Atualmente, contribuo na Sisedu, uma ONG de soluções educacionais focada em democratizar o acesso à educação de qualidade. Minha abordagem envolve o uso de tecnologias como React, Angular, Node.js, JavaScript, TypeScript, Tailwind e AWS, resultando em interfaces intuitivas e funcionais que atendem às necessidades dos clientes e usuários finais.</p>
+  <a href="https://seusite.com">
+    <img src="https://img.shields.io/badge/-Visite%20meu%20site-%230077B5?style=for-the-badge" target="_blank">
+  </a>
   <h1>Olá! Eu sou o Edson Bruno</h1>
 </div>
 <br>
@@ -9,35 +13,34 @@
   </a>
 </div>
 
-<h3 style="text-align: center;">Linguagens e frameworks</h3>
+<h3 align="center">Linguagens e Frameworks</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center;"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <br>
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </div>
 
-<h3 style="text-align: center;">Sistemas Operacionais e IDEs</h3>
+<h3 align="center">Sistemas Operacionais e IDEs</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <img alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
   <img alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
   <img alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
-<h2 style="text-align: center;">Snake</h2>
+<h2 align="center">Snake</h2>
  
-  ![Snake animation](https://github.com/sucloudflare/sucloudflare/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sucloudflare/sucloudflare/blob/output/github-contribution-grid-snake.svg)
 
-<div style="text-align: center;"> 
+<div align="center"> 
   <h2>Contato</h2>
   <a href="https://instagram.com/rat_cloud6" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
