@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <img src='./hacker(1).png' alt=''>
-  <p style="font-style: italic;font-size: 20px;">
+  <p style="font-style: italic;font-size: 24px;">
   <em>Desenvolvedor apaixonado pela criação de experiências digitais inovadoras, acessíveis e impactantes para os usuários, atuando como full stack e front-end. Atualmente, contribuo na Sisedu, uma ONG de soluções educacionais focada em democratizar o acesso à educação de qualidade. Minha abordagem envolve o uso de tecnologias como React, Angular, Node.js, JavaScript, TypeScript, Tailwind e AWS, resultando em interfaces intuitivas e funcionais que atendem às necessidades dos clientes e usuários finais. 🚀</em>
 </p>
 
