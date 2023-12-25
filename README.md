@@ -1,4 +1,4 @@
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F12620227-homem-vestindo-jaqueta-com-capuz-no-tema-hacker-anonimo&psig=AOvVaw0figbOXAMGrTo3gR03RzW7&ust=1703597849663000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi1ttraqoMDFQAAAAAdAAAAABAY' alt=''>
+<img src='./png.png' alt=''>
 <div align="center">
   <p>Desenvolvedor apaixonado pela criação de experiências digitais inovadoras, acessíveis e impactantes para os usuários, atuando como full stack e front-end. Atualmente, contribuo na Sisedu, uma ONG de soluções educacionais focada em democratizar o acesso à educação de qualidade. Minha abordagem envolve o uso de tecnologias como React, Angular, Node.js, JavaScript, TypeScript, Tailwind e AWS, resultando em interfaces intuitivas e funcionais que atendem às necessidades dos clientes e usuários finais.</p>
   <a href="https://seusite.com">
