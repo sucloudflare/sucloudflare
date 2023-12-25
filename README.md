@@ -1,6 +1,6 @@
 <div align="center">
   <img src='./as' alt=''>
-  <p>Desenvolvedor apaixonado pela criação de experiências digitais inovadoras, acessíveis e impactantes para os usuários, atuando como full stack e front-end. Atualmente, contribuo na Sisedu, uma ONG de soluções educacionais focada em democratizar o acesso à educação de qualidade. Minha abordagem envolve o uso de tecnologias como React, Angular, Node.js, JavaScript, TypeScript, Tailwind e AWS, resultando em interfaces intuitivas e funcionais que atendem às necessidades dos clientes e usuários finais.</p>
+  <p style="font-family: 'Arial', sans-serif; font-style: italic;">Desenvolvedor apaixonado pela criação de experiências digitais inovadoras, acessíveis e impactantes para os usuários, atuando como full stack e front-end. Atualmente, contribuo na Sisedu, uma ONG de soluções educacionais focada em democratizar o acesso à educação de qualidade. Minha abordagem envolve o uso de tecnologias como React, Angular, Node.js, JavaScript, TypeScript, Tailwind e AWS, resultando em interfaces intuitivas e funcionais que atendem às necessidades dos clientes e usuários finais. 🚀</p>
   <a href="http://edsobruno.kesug.com">
     <img src="https://img.shields.io/badge/-Visite%20meu%20site-%230077B5?style=for-the-badge" target="_blank">
   </a>
