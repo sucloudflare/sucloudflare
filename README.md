@@ -31,15 +31,6 @@
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </div>
-
-<h3 align="center">Sistemas Operacionais e IDEs</h3>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg">
-  <img alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg">
-  <img alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-</div>
-
 <h2 align="center">Snake</h2>
  
 ![Snake animation](https://github.com/sucloudflare/sucloudflare/blob/output/github-contribution-grid-snake.svg)
