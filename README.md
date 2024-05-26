@@ -1,6 +1,7 @@
 <h1>👋 Olá, eu sou Edson Bruno!</h1>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome">
+<button><a href="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome">Welcome</a></button>
+
 <h2>🚀 Sobre Mim</h2>
 <p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de novos desafios e aprendizados.</p>
 
@@ -14,7 +15,6 @@
 </ul>
 
 <h3>🛠️ Habilidades</h3>
-
 <ul>
   <li><strong>Linguagens de Programação</strong>: Java, Python, JavaScript</li>
   <li><strong>Front-End</strong>: React, Angular</li>
@@ -24,38 +24,31 @@
 </ul>
 
 <h2>🌐 Conecte-se Comigo</h2>
+<p>
+  | <a href="http://edsonbruno.kesug.com"><button>Visite meu site</button></a> | <button><a href="https://www.linkedin.com/in/edson-bruno-dev">LinkedIn</a></button> | <button><a href="https://gitlab.com/sucloudflare/">GitLab</a></button>
+</p>
 
-<p> |<a href="http://edsonbruno.kesug.com">
-    <img src="https://img.shields.io/badge/-Visite%20meu%20site-%230077B5?style=for-the-badge" target="_blank">
-  </a> <a href="https://www.linkedin.com/in/edson-bruno-dev">LinkedIn</a> | <a href="https://gitlab.com/sucloudflare/">GitLab</a></p>
- 
 <h2>📈 Estatísticas do GitHub</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats">
+<button><a href="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical">GitHub Stats</a></button>
 
 <h2>🏆 Troféus do GitHub</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark" alt="GitHub Trophies">
+<button><a href="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark">GitHub Trophies</a></button>
 
 <h2>📊 Linguagens Mais Usadas</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages">
+<button><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical">Top Languages</a></button>
 
 <h2>✨ Animações e Efeitos</h2>
-
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/sucloudflare">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=7&theme=react"/>
+    <button><a href="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false">GitHub Stats</a></button>
+    <button><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=7&theme=react">Top Languages</a></button>
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">
+<button><a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code">Code</a></button>
+<button><a href="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">Coding</a></button>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Footer">
-
-
+<button><a href="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Footer">Footer</a></button>
 
 <h3 align="center">Linguagens e Frameworks</h3>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
@@ -72,23 +65,21 @@
 </div>
 
 <h2 align="center">Snake</h2>
- 
+
 ![Snake animation](https://github.com/sucloudflare/sucloudflare/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"> 
   <h2>Contato</h2>
   <a href="https://instagram.com/sucloudflare_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <button><a href="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">Instagram</a></button>
   </a>
   <a href="mailto:cloudflare.ddos21@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <button><a href="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">Gmail</a></button>
   </a>
   <a href="https://www.linkedin.com/in/edson-bruno-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <button><a href="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">LinkedIn</a></button>
   </a> 
 </div>
-
-
 
 
 
