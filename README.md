@@ -40,9 +40,6 @@
 <button><a href="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark">GitHub Trophies</a></button>
 
 <h2>📊 Linguagens Mais Usadas</h2>
-<button><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical">Top Languages</a></button>
-
-<h3 align="center">Linguagens e Frameworks</h3>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
