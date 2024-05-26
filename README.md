@@ -29,26 +29,18 @@
 </p>
 
 <h2>📈 Estatísticas do GitHub</h2>
-<button><a href="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical">GitHub Stats</a></button>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/sucloudflare">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</div>
 
 <h2>🏆 Troféus do GitHub</h2>
 <button><a href="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark">GitHub Trophies</a></button>
 
 <h2>📊 Linguagens Mais Usadas</h2>
 <button><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical">Top Languages</a></button>
-
-<h2>✨ Animações e Efeitos</h2>
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/sucloudflare">
-    <button><a href="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false">GitHub Stats</a></button>
-    <button><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=7&theme=react">Top Languages</a></button>
-  </a>
-</div>
-
-<button><a href="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Code">Code</a></button>
-<button><a href="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding">Coding</a></button>
-
-<button><a href="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Footer">Footer</a></button>
 
 <h3 align="center">Linguagens e Frameworks</h3>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><br>
