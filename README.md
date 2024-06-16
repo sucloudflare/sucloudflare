@@ -1,6 +1,15 @@
 <h1>👋 Olá, eu sou Edson Bruno!</h1>
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome">
+<h1 align="center">
+    Olá a todos! Sejam bem vindos ao meu perfil! 👋
+</h1>
+<br>
+<br>
+<p align="center">Visitantes:</p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/sucloudflare/count.svg"/></p>
+<hr>
+
 
 <h2>🚀 Sobre Mim</h2>
 <p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de novos desafios e aprendizados.</p>
