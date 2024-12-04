@@ -62,15 +62,29 @@
   <img alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </div>
 
-
+<h2> 🏆 Some Trophies and Stats </h2>
+<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=juicyfresh&row=3&column=5"/></a><br><br>
+  <a href="https://tryhackme.com/signup?referrer=61e07680c751a40054dbb6cc"><img align="center" width="300px" src="https://tryhackme-badges.s3.amazonaws.com/sucloudflare.png" alt="TryHackMe"></a>
+</p>
+<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=transparent&utcOffset=-3"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucloudflare&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucloudflare&theme=transparent"/></a>
+</p>
+<br>
+<details align="left">
+  <summary> 🗓️ Daily Streaks (click here) 🔥 </summary> <br>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://streak-stats.demolab.com?user=sucloudflare&theme=burnt-neon"/></a></p>
+</details>
 
 <details align="left">
   <summary> 📊 More Statistics (click here)</summary> <br>
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/ ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=20&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
-  <p align="center"> <a href="https://github.com/sucloudflare"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sucloudflares&layout=compact&theme=radical&custom_title=Time%20Stats" alt="Time Stats"/></a></p>
-  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sucloudflare&theme=chartreuse_dark"/></a></p>
-  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/></a></p>
+  <p align="center"> <a href="https://github.com/sucloudflare"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sucloudflare&layout=compact&theme=radical&custom_title=Time%20Stats" alt="Time Stats"/></a></p>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venelouis&theme=chartreuse_dark"/></a></p>
+  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=venelouis&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/></a></p>
   <p align="right">*did you notice they are a little bit different?! Lol </p>
+</details>
+<details open>
+<summary> 🎨 Some ASCII Art 🖌️:  </summary>
+<br>
 
 
 
