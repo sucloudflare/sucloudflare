@@ -63,7 +63,6 @@
 </div>
 
 <h2> 🏆 Some Trophies and Stats </h2>
-<p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=sucloudflare.ddos2&theme=juicyfresh&row=3&column=5"/></a><br><br>
 
 </p>
 <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=transparent&utcOffset=-3"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucloudflare&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucloudflare&theme=transparent"/></a>
