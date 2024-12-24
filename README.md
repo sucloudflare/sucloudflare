@@ -68,7 +68,7 @@
 <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=transparent&utcOffset=-3"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucloudflare&theme=transparent"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucloudflare&theme=transparent"/></a>
 </p>
 <br>
-<details align="left">
+
 
 <details align="left">
   <summary> 📊 More Statistics CLICA AQUI SEU CORNO <= (AQUI VC VAI VER MAIS COISAS) <= CLICA AQUI 🔥 </summary> <br>
