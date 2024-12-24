@@ -73,7 +73,6 @@
 <details align="left">
   <summary> 📊 More Statistics CLICA AQUI SEU CORNO <= (AQUI VC VAI VER MAIS COISAS) <= CLICA AQUI 🔥 </summary> <br>
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&rank_icon=percentile"/ ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=20&theme=radical&custom_title=Top%20Languages" alt="Top Languages" /></a></p>
-  <p align="center"> <a href="https://github.com/sucloudflare"><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sucloudflare&layout=compact&theme=radical&custom_title=Time%20Stats" alt="Time Stats"/></a></p>
  
   <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&radius=16&theme=chartreuse-dark&area=true&order=5"alt="activity-graph graph"/></a></p>
   <p align="right">*did you notice they are a little bit different?! Lol </p>
