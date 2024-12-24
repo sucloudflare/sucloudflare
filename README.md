@@ -69,9 +69,6 @@
 </p>
 <br>
 <details align="left">
-  <summary> 🗓️ Daily Streaks  CLICA AQUI SAFADO <= (AQUI VC VAI VER MAIS COISAS) <= CLICA AQUI 🔥 </summary> <br>
-  <p align="center"><a href="https://referral.hackthebox.com/mz7Kryv" target="_blank"><img src="https://streak-stats.demolab.com?user=sucloudflare&theme=burnt-neon"/></a></p>
-</details>
 
 <details align="left">
   <summary> 📊 More Statistics CLICA AQUI SEU CORNO <= (AQUI VC VAI VER MAIS COISAS) <= CLICA AQUI 🔥 </summary> <br>
