@@ -85,7 +85,6 @@
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&bg_color=011627&border_color=761EE7&title_color=939EFF&text_color=FFE6E6)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sucloudflare&theme=bear&background=011627&border=761EE7&dates=939EFF)](https://git.io/streak-stats)
 
 
