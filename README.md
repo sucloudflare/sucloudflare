@@ -11,6 +11,14 @@
 <hr>
 
 
+
+<p align="center">
+  <img src="https://shields.io/endpoint?url=https://api.countapi.xyz/hit/sucloudflare/visits" alt="Visitantes">
+</p>
+
+
+
+
 <h2>🚀 Sobre Mim</h2>
 <p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de novos desafios e aprendizados.</p>
 
