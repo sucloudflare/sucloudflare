@@ -12,7 +12,7 @@
 
 
 
-![Visitantes](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/edsonbruno.sucloudflare/visitas)
+![Visitantes](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/sucloudflare.sucloudflare/visitas)
 
 
 
