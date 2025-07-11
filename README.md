@@ -12,7 +12,7 @@
 
 
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=sucloudflare.readme)
+![Visitantes](https://img.shields.io/endpoint?url=https://api.countapi.xyz/hit/edsonbruno.sucloudflare/visitas)
 
 
 
