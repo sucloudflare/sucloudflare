@@ -12,10 +12,7 @@
 
 
 
-<p align="center">Visitantes:</p>
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/sucloudflare/visits?callback=?" />
-</p>
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=sucloudflare.readme)
 
 
 
