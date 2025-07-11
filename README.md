@@ -12,8 +12,9 @@
 
 
 
+<p align="center">Visitantes:</p>
 <p align="center">
-  <img src="https://shields.io/endpoint?url=https://api.countapi.xyz/hit/sucloudflare/visits" alt="Visitantes">
+  <img src="https://api.countapi.xyz/hit/sucloudflare/visits?callback=?" />
 </p>
 
 
