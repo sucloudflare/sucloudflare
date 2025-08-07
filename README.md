@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou Edson Bruno!</h1>
+<h1>👋 Olá, eu sou Bruno!</h1>
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome">
 <h1 align="center">
@@ -36,8 +36,6 @@
 
 <h2>🌐 Conecte-se Comigo</h2>
 <p align="center">
-  <a href="http://edsonbruno.kesug.com" target="_blank">🌐 Visite meu site</a> |
-  <a href="https://www.linkedin.com/in/edson-bruno-dev" target="_blank">💼 LinkedIn</a> |
   <a href="https://gitlab.com/sucloudflare/" target="_blank">🐙 GitLab</a>
 </p>
 
