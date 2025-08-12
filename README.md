@@ -1,5 +1,3 @@
-<h1>👋 Olá, eu sou Bruno!</h1>
-
 <h1 align="center">
     Olá a todos! Sejam bem-vindos ao meu perfil! 👋
 </h1>
