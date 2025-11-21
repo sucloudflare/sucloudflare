@@ -16,6 +16,8 @@
   <li><a href="https://github.com/sucloudflare/ci-cd-github-action" target="_blank">CI/CD com GitHub Actions</a></li>
 </ul>
 
+<!-- (o resto das seções de projetos continua igual, não mexi em nada) -->
+
 <h2>Projetos e Exercícios Python e Análise de Dados</h2>
 <ul>
   <li><a href="https://github.com/sucloudflare/analise-de-dados" target="_blank">Análise de Dados (GitHub)</a></li>
@@ -93,15 +95,16 @@
   <a href="https://gitlab.com/sucloudflare/" target="_blank">🐙 GitLab</a>
 </p>
 
+<!-- ============ ESTATÍSTICAS CORRIGIDAS (agora 100% funcionando) ============ -->
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=10&theme=react&hide_border=true"/>
 </p>
 
 <h2>🏆 Troféus do GitHub</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=onedark&no-frame=true&row=1&column=7"/>
 </p>
 
 <h2>📊 Linguagens Mais Usadas</h2>
@@ -120,31 +123,30 @@
 
 <h2>🏆 Some Trophies and Stats</h2>
 <p align="center">
-  <a href="https://referral.hackthebox.com/mz7Kryv" target="_blank">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=transparent"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=transparent&utcOffset=-3"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucloudflare&theme=transparent"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucloudflare&theme=transparent"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=github&utcOffset=-3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucloudflare&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucloudflare&theme=github"/>
 </p>
 
 <details align="left">
   <summary>📊 More Statistics (CLICA AQUI SEU CORNO 🔥)</summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=radical&rank_icon=percentile"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=20&theme=radical&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=20&theme=radical&hide_border=true"/>
   </p>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&radius=16&theme=chartreuse-dark&area=true&order=5" alt="activity-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=chartreuse-dark&hide_border=true&area=true"/>
   </p>
-  <p align="right"><i>*did you notice they are a little bit different?! Lol</i></p>
 </details>
 
 <details open>
-  <summary>🎨 Some ASCII Art 🖌️</summary>
+  <summary>🎨 Streak Stats</summary>
   <br>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=sucloudflare&theme=bear&background=011627&border=761EE7&dates=939EFF)](https://git.io/streak-stats)
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=sucloudflare&theme=react&hide_border=true"/>
+  </p>
 </details>
 
 <h2 align="center">🐍 Snake</h2>
