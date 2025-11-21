@@ -16,8 +16,6 @@
   <li><a href="https://github.com/sucloudflare/ci-cd-github-action" target="_blank">CI/CD com GitHub Actions</a></li>
 </ul>
 
-<!-- (o resto das seções de projetos continua igual, não mexi em nada) -->
-
 <h2>Projetos e Exercícios Python e Análise de Dados</h2>
 <ul>
   <li><a href="https://github.com/sucloudflare/analise-de-dados" target="_blank">Análise de Dados (GitHub)</a></li>
@@ -62,10 +60,13 @@
   <li><a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a></li>
 </ul>
 
-<p align="center">Visitantes:</p>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sucloudflare.sucloudflare" />
-</div>
+<!-- VISITANTES 100% CORRIGIDO E BONITO -->
+<p align="center"><strong>👀 Visitantes no perfil:</strong></p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sucloudflare.sucloudflare&left_color=grey&right_color=brightgreen" alt="Visitors" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=sucloudflare&color=58a6ff&style=flat-square&label=Visualiza%C3%A7%C3%B5es" alt="Profile views" />
+</p>
 
 <hr>
 
@@ -95,7 +96,6 @@
   <a href="https://gitlab.com/sucloudflare/" target="_blank">🐙 GitLab</a>
 </p>
 
-<!-- ============ ESTATÍSTICAS CORRIGIDAS (agora 100% funcionando) ============ -->
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
