@@ -2,6 +2,16 @@
     Olá a todos! Sejam bem-vindos ao meu perfil! 👋
 </h1>
 
+<!-- Badges de Bug Bounty no topo (fica lindo!) -->
+<p align="center">
+  <a href="https://hackerone.com/sucloudflare" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-Researcher-brightgreen?style=for-the-badge&logo=hackerone" alt="HackerOne Researcher"/>
+  </a>
+  <a href="https://bugcrowd.com/sucloudflare" target="_blank">
+    <img src="https://img.shields.io/badge/Bugcrowd-Researcher-ff6600?style=for-the-badge&logo=bugcrowd" alt="Bugcrowd Researcher"/>
+  </a>
+</p>
+
 <h1>Projetos e Exercícios</h1>
 
 <h2>Projetos e Exercícios Front-end</h2>
@@ -60,7 +70,7 @@
   <li><a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a></li>
 </ul>
 
-<!-- VISITANTES 100% CORRIGIDO E BONITO -->
+<!-- VISITANTES CORRIGIDO -->
 <p align="center"><strong>👀 Visitantes no perfil:</strong></p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sucloudflare.sucloudflare&left_color=grey&right_color=brightgreen" alt="Visitors" />
@@ -72,6 +82,9 @@
 
 <h2>🚀 Sobre Mim</h2>
 <p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de novos desafios e aprendizados.</p>
+<p><strong>🛡️ Pesquisador de Segurança Ofensiva (Bug Bounty)</strong><br>
+   → HackerOne: <a href="https://hackerone.com/sucloudflare" target="_blank">hackerone.com/sucloudflare</a><br>
+   → Bugcrowd: <a href="https://bugcrowd.com/sucloudflare" target="_blank">bugcrowd.com/sucloudflare</a></p>
 
 <h3>📚 Formação</h3>
 <ul>
@@ -89,13 +102,17 @@
   <li><strong>Back-End</strong>: Spring Boot, Node.js</li>
   <li><strong>DevOps</strong>: Docker, Kubernetes</li>
   <li><strong>Cloud</strong>: AWS, Azure</li>
+  <li><strong>Security</strong>: Bug Bounty, Pentest, Web Vulnerabilities</li>
 </ul>
 
 <h2>🌐 Conecte-se Comigo</h2>
 <p align="center">
-  <a href="https://gitlab.com/sucloudflare/" target="_blank">🐙 GitLab</a>
+  <a href="https://gitlab.com/sucloudflare/" target="_blank">🐙 GitLab</a> •
+  <a href="https://hackerone.com/sucloudflare" target="_blank">🛡️ HackerOne</a> •
+  <a href="https://bugcrowd.com/sucloudflare" target="_blank">🛡️ Bugcrowd</a>
 </p>
 
+<!-- O resto continua 100% igual (estatísticas, snake, etc.) -->
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
