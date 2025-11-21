@@ -4,7 +4,7 @@
 
 <!-- Badges de Bug Bounty no topo (fica lindo!) -->
 <p align="center">
-  <a href="https://hackerone.com/sucloudflare" target="_blank">
+  <a href="https://hackerone.com/sucloudflaree" target="_blank">
     <img src="https://img.shields.io/badge/HackerOne-Researcher-brightgreen?style=for-the-badge&logo=hackerone" alt="HackerOne Researcher"/>
   </a>
   <a href="https://bugcrowd.com/sucloudflare" target="_blank">
