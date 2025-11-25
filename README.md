@@ -1,6 +1,4 @@
-<h1 align="center">
-    Olá a todos! Sejam bem-vindos ao meu perfil! 👋
-</h1>
+<h1 align="center">Olá a todos! Sejam bem-vindos ao meu perfil! 👋</h1>
 
 <!-- Badges de Bug Bounty -->
 <p align="center">
@@ -12,117 +10,110 @@
   </a>
 </p>
 
-<h1>Projetos e Exercícios</h1>
+---
 
-<h2>Projetos e Exercícios Front-end</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/digicad-frontend" target="_blank">Digicad Frontend - 50 exercícios</a></li>
-  <li><a href="https://github.com/sucloudflare/contador-react" target="_blank">Contador React</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a></li>
-  <li><a href="https://github.com/sucloudflare/primeiro-projeto-fullsatck" target="_blank">Primeiro Projeto Fullstack</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-forum-alura" target="_blank">Desafio Fórum Alura</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-livro-alura" target="_blank">Desafio Livro Alura</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-livro" target="_blank">Desafio Livro</a></li>
-  <li><a href="https://github.com/sucloudflare/ci-cd-github-action" target="_blank">CI/CD com GitHub Actions</a></li>
-</ul>
+## 🚀 Projetos e Exercícios
 
-<h2>Projetos Python e Análise de Dados</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/analise-de-dados" target="_blank">Análise de Dados (GitHub)</a></li>
-  <li><a href="https://colab.research.google.com/drive/13hs0b-2nyjrVcWckldSbe8cRZ7Vq2IS1" target="_blank">Análise de Dados (Google Colab)</a></li>
-  <li><a href="https://colab.research.google.com/drive/1fQEVZUnbhDQ7dS7uJVggxOJJNtCOy0_P?usp=sharing" target="_blank">Python - 200 Exercícios (Colab)</a></li>
-</ul>
+### 🎨 Front-end
+- <a href="https://github.com/sucloudflare/digicad-frontend" target="_blank">Digicad Frontend — 50 exercícios</a>
+- <a href="https://github.com/sucloudflare/contador-react" target="_blank">Contador React</a>
+- <a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a>
+- <a href="https://github.com/sucloudflare/primeiro-projeto-fullsatck" target="_blank">Primeiro Projeto Fullstack</a>
+- <a href="https://github.com/sucloudflare/desafio-forum-alura" target="_blank">Desafio Fórum Alura</a>
+- <a href="https://github.com/sucloudflare/desafio-livro-alura" target="_blank">Desafio Livro Alura</a>
+- <a href="https://github.com/sucloudflare/desafio-livro" target="_blank">Desafio Livro</a>
+- <a href="https://github.com/sucloudflare/ci-cd-github-action" target="_blank">CI/CD com GitHub Actions</a>
 
-<h2>Projetos Fullstack e Backend</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/backend-alura-java" target="_blank">Backend Java - Alura</a></li>
-  <li><a href="https://github.com/sucloudflare/DesafioAlura-BackEnd-Java" target="_blank">Desafio Backend Java - Alura</a></li>
-  <li><a href="https://github.com/sucloudflare/Patterns-Build" target="_blank">Design Patterns - Build</a></li>
-  <li><a href="https://github.com/sucloudflare/DevOps-modelo" target="_blank">Projeto Modelo DevOps</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-dio-java4" target="_blank">Desafio DIO Java 4</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-dio-java3" target="_blank">Desafio DIO Java 3</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-java-2" target="_blank">Desafio Java 2</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-java-dio" target="_blank">Desafio Java DIO</a></li>
-  <li><a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a></li>
-</ul>
+### 🐍 Python & Análise de Dados
+- <a href="https://github.com/sucloudflare/analise-de-dados" target="_blank">Análise de Dados (GitHub)</a>
+- <a href="https://colab.research.google.com/drive/13hs0b-2nyjrVcWckldSbe8cRZ7Vq2IS1" target="_blank">Análise de Dados (Google Colab)</a>
+- <a href="https://colab.research.google.com/drive/1fQEVZUnbhDQ7dS7uJVggxOJJNtCOy0_P?usp=sharing" target="_blank">Python — 200 Exercícios (Colab)</a>
 
-<h2>Projetos SQL</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/tcc-dio-sql" target="_blank">TCC DIO SQL</a></li>
-  <li><a href="https://github.com/sucloudflare/projeto-04-sql" target="_blank">Projeto 04 SQL</a></li>
-  <li><a href="https://github.com/sucloudflare/projeto-03-sql" target="_blank">Projeto 03 SQL</a></li>
-  <li><a href="https://github.com/sucloudflare/projeto-sql-2" target="_blank">Projeto SQL 2</a></li>
-  <li><a href="https://github.com/sucloudflare/projeto-dio-mysql" target="_blank">Projeto DIO MySQL</a></li>
-</ul>
+### 🖥️ Backend & Fullstack
+- <a href="https://github.com/sucloudflare/backend-alura-java" target="_blank">Backend Java — Alura</a>
+- <a href="https://github.com/sucloudflare/DesafioAlura-BackEnd-Java" target="_blank">Desafio Backend Java — Alura</a>
+- <a href="https://github.com/sucloudflare/Patterns-Build" target="_blank">Design Patterns — Build</a>
+- <a href="https://github.com/sucloudflare/DevOps-modelo" target="_blank">Projeto Modelo DevOps</a>
+- <a href="https://github.com/sucloudflare/desafio-dio-java4" target="_blank">Desafio DIO Java 4</a>
+- <a href="https://github.com/sucloudflare/desafio-dio-java3" target="_blank">Desafio DIO Java 3</a>
+- <a href="https://github.com/sucloudflare/desafio-java-2" target="_blank">Desafio Java 2</a>
+- <a href="https://github.com/sucloudflare/desafio-java-dio" target="_blank">Desafio Java DIO</a>
+- <a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a>
 
-<h2>Projetos C (Harvard)</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/Linguagem-C" target="_blank">Linguagem C - Harvard</a></li>
-</ul>
+### 🗄️ SQL
+- <a href="https://github.com/sucloudflare/tcc-dio-sql" target="_blank">TCC DIO SQL</a>
+- <a href="https://github.com/sucloudflare/projeto-04-sql" target="_blank">Projeto 04 SQL</a>
+- <a href="https://github.com/sucloudflare/projeto-03-sql" target="_blank">Projeto 03 SQL</a>
+- <a href="https://github.com/sucloudflare/projeto-sql-2" target="_blank">Projeto SQL 2</a>
+- <a href="https://github.com/sucloudflare/projeto-dio-mysql" target="_blank">Projeto DIO MySQL</a>
 
-<h2>Projetos MaisPrati</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/maisprati-5" target="_blank">MaisPrati 5</a></li>
-  <li><a href="https://github.com/sucloudflare/maisprati-04" target="_blank">MaisPrati 04</a></li>
-  <li><a href="https://github.com/sucloudflare/maisPraTI-2025-02" target="_blank">MaisPrati 2025-02</a></li>
-  <li><a href="https://github.com/sucloudflare/3-atividade-maisprati" target="_blank">3ª Atividade MaisPrati</a></li>
-  <li><a href="https://github.com/sucloudflare/atividade02-maisprati" target="_blank">Atividade 02 MaisPrati</a></li>
-  <li><a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a></li>
-</ul>
+### 💻 C (Harvard / CS50)
+- <a href="https://github.com/sucloudflare/Linguagem-C" target="_blank">Linguagem C — Harvard</a>
 
-<!-- VISITANTES (somente serviços que funcionam em 2025) -->
-<p align="center"><strong>👀 Visitantes no perfil:</strong></p>
+### 📘 MaisPrati
+- <a href="https://github.com/sucloudflare/maisprati-5" target="_blank">MaisPrati 5</a>
+- <a href="https://github.com/sucloudflare/maisprati-04" target="_blank">MaisPrati 04</a>
+- <a href="https://github.com/sucloudflare/maisPraTI-2025-02" target="_blank">MaisPrati 2025-02</a>
+- <a href="https://github.com/sucloudflare/3-atividade-maisprati" target="_blank">3ª Atividade MaisPrati</a>
+- <a href="https://github.com/sucloudflare/atividade02-maisprati" target="_blank">Atividade 02 MaisPrati</a>
+- <a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a>
+
+---
+
+## 👀 Visitantes
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sucloudflare&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
-<hr>
+---
 
-<h2>🚀 Sobre Mim</h2>
-<p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação.</p>
+## 🧑‍💻 Sobre Mim
+Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação.
 
-<p><strong>🛡️ Pesquisador de Segurança Ofensiva (Bug Bounty)</strong><br>
-   → HackerOne: <a href="https://hackerone.com/sucloudflare" target="_blank">hackerone.com/sucloudflare</a><br>
-   → Bugcrowd: <a href="https://bugcrowd.com/sucloudflare" target="_blank">bugcrowd.com/sucloudflare</a></p>
+### 🛡️ Segurança Ofensiva — Bug Bounty
+- HackerOne: <a href="https://hackerone.com/sucloudflare" target="_blank">Perfil</a>  
+- Bugcrowd: <a href="https://bugcrowd.com/sucloudflare" target="_blank">Perfil</a>
 
-<h3>📚 Formação</h3>
-<ul>
-  <li><strong>Full-Stack Developer</strong></li>
-  <ul>
-    <li>Spring Boot (Java)</li>
-    <li>Node.js</li>
-  </ul>
-</ul>
+### 📚 Formação
+- **Full-Stack Developer**
+  - Spring Boot (Java)
+  - Node.js
 
-<h3>🛠️ Habilidades</h3>
-<ul>
-  <li><strong>Linguagens</strong>: Java, Python, JavaScript</li>
-  <li><strong>Front-End</strong>: React, Angular</li>
-  <li><strong>Back-End</strong>: Spring Boot, Node.js</li>
-  <li><strong>DevOps</strong>: Docker, Kubernetes</li>
-  <li><strong>Cloud</strong>: AWS, Azure</li>
-  <li><strong>Security</strong>: Bug Bounty, Pentest, Web Vulns</li>
-</ul>
+### 🛠️ Habilidades
+- **Linguagens:** Java, Python, JavaScript  
+- **Front-end:** React, Angular  
+- **Back-end:** Spring Boot, Node.js  
+- **DevOps:** Docker, Kubernetes  
+- **Cloud:** AWS, Azure  
+- **Security:** Bug Bounty, Pentest, Web Vulns  
 
-<h2>🌐 Conecte-se Comigo</h2>
+---
+
+## 🌐 Conecte-se Comigo
 <p align="center">
   <a href="https://gitlab.com/sucloudflare" target="_blank">🐙 GitLab</a> •
   <a href="https://hackerone.com/sucloudflare" target="_blank">🛡️ HackerOne</a> •
   <a href="https://bugcrowd.com/sucloudflare" target="_blank">🛡️ Bugcrowd</a>
 </p>
 
-<h2>📈 Estatísticas do GitHub</h2>
+---
+
+## 📈 Estatísticas do GitHub
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=react&hide_border=true"/>
 </p>
 
-<h2>🏆 Troféus do GitHub</h2>
+---
+
+## 🏆 Troféus do GitHub
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=onedark&no-frame=true&row=1&column=7"/>
 </p>
 
-<h2>📊 Linguagens Mais Usadas</h2>
+---
+
+## 📊 Linguagens Mais Usadas
 <p align="center">
   <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -135,6 +126,8 @@
   <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Debian" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </p>
+
+---
 
 <h2 align="center">🐍 Snake</h2>
 <p align="center">
