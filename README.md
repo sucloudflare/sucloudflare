@@ -2,7 +2,7 @@
     Olá a todos! Sejam bem-vindos ao meu perfil! 👋
 </h1>
 
-<!-- Badges de Bug Bounty no topo (fica lindo!) -->
+<!-- Badges de Bug Bounty no topo -->
 <p align="center">
   <a href="https://hackerone.com/sucloudflaree" target="_blank">
     <img src="https://img.shields.io/badge/HackerOne-Researcher-brightgreen?style=for-the-badge&logo=hackerone" alt="HackerOne Researcher"/>
@@ -19,7 +19,7 @@
   <li><a href="https://github.com/sucloudflare/digicad-frontend" target="_blank">Digicad Frontend - 50 exercícios</a></li>
   <li><a href="https://github.com/sucloudflare/contador-react" target="_blank">Contador React</a></li>
   <li><a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a></li>
-  <li><a href="https://github.com/sucloudflare/primeiro-projeto-fullsatck" target="_blank">Primeiro Projeto Fullstack</a></li>
+  <li><a href="https://github.com/sucloudflare/primeiro-projeto-fullstack" target="_blank">Primeiro Projeto Fullstack</a></li>
   <li><a href="https://github.com/sucloudflare/desafio-forum-alura" target="_blank">Desafio Fórum Alura</a></li>
   <li><a href="https://github.com/sucloudflare/desafio-livro-alura" target="_blank">Desafio Livro Alura</a></li>
   <li><a href="https://github.com/sucloudflare/desafio-livro" target="_blank">Desafio Livro</a></li>
@@ -67,10 +67,10 @@
   <li><a href="https://github.com/sucloudflare/maisPraTI-2025-02" target="_blank">MaisPrati 2025-02</a></li>
   <li><a href="https://github.com/sucloudflare/3-atividade-maisprati" target="_blank">3ª Atividade MaisPrati</a></li>
   <li><a href="https://github.com/sucloudflare/atividade02-maisprati" target="_blank">Atividade 02 MaisPrati</a></li>
-  <li><a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a></li>
+  <li><a href="https://github.com/sucloudflare/exercicio01-maisprati" target="_blank">Exercício 01 MaisPrati</a></li>
 </ul>
 
-<!-- VISITANTES CORRIGIDO -->
+<!-- Visitantes -->
 <p align="center"><strong>👀 Visitantes no perfil:</strong></p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sucloudflare.sucloudflare&left_color=grey&right_color=brightgreen" alt="Visitors" />
@@ -82,6 +82,7 @@
 
 <h2>🚀 Sobre Mim</h2>
 <p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de novos desafios e aprendizados.</p>
+
 <p><strong>🛡️ Pesquisador de Segurança Ofensiva (Bug Bounty)</strong><br>
    → HackerOne: <a href="https://hackerone.com/sucloudflare" target="_blank">hackerone.com/sucloudflare</a><br>
    → Bugcrowd: <a href="https://bugcrowd.com/sucloudflare" target="_blank">bugcrowd.com/sucloudflare</a></p>
@@ -112,7 +113,6 @@
   <a href="https://bugcrowd.com/sucloudflare" target="_blank">🛡️ Bugcrowd</a>
 </p>
 
-<!-- O resto continua 100% igual (estatísticas, snake, etc.) -->
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -138,7 +138,7 @@
   <img alt="Debian" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </p>
 
-<h2>🏆 Some Trophies and Stats</h2>
+<h2>🏆 More Trophies and Stats</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=github"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=github&utcOffset=-3"/>
@@ -147,7 +147,7 @@
 </p>
 
 <details align="left">
-  <summary>📊 More Statistics (CLICA AQUI SEU CORNO 🔥)</summary>
+  <summary>📊 More Statistics</summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true"/>
