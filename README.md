@@ -2,13 +2,13 @@
     Olá a todos! Sejam bem-vindos ao meu perfil! 👋
 </h1>
 
-<!-- Badges de Bug Bounty no topo (fica lindo!) -->
+<!-- Badges de Bug Bounty -->
 <p align="center">
   <a href="https://hackerone.com/sucloudflaree" target="_blank">
-    <img src="https://img.shields.io/badge/HackerOne-Researcher-brightgreen?style=for-the-badge&logo=hackerone" alt="HackerOne Researcher"/>
+    <img src="https://img.shields.io/badge/HackerOne-Researcher-000?style=for-the-badge&logo=hackerone" alt="HackerOne Researcher"/>
   </a>
   <a href="https://bugcrowd.com/sucloudflare" target="_blank">
-    <img src="https://img.shields.io/badge/Bugcrowd-Researcher-ff6600?style=for-the-badge&logo=bugcrowd" alt="Bugcrowd Researcher"/>
+    <img src="https://img.shields.io/badge/Bugcrowd-Researcher-orange?style=for-the-badge&logo=bugcrowd" alt="Bugcrowd Researcher"/>
   </a>
 </p>
 
@@ -26,11 +26,11 @@
   <li><a href="https://github.com/sucloudflare/ci-cd-github-action" target="_blank">CI/CD com GitHub Actions</a></li>
 </ul>
 
-<h2>Projetos e Exercícios Python e Análise de Dados</h2>
+<h2>Projetos Python e Análise de Dados</h2>
 <ul>
   <li><a href="https://github.com/sucloudflare/analise-de-dados" target="_blank">Análise de Dados (GitHub)</a></li>
   <li><a href="https://colab.research.google.com/drive/13hs0b-2nyjrVcWckldSbe8cRZ7Vq2IS1" target="_blank">Análise de Dados (Google Colab)</a></li>
-  <li><a href="https://colab.research.google.com/drive/1fQEVZUnbhDQ7dS7uJVggxOJJNtCOy0_P?usp=sharing" target="_blank">Python - 200 Exercícios (Google Colab)</a></li>
+  <li><a href="https://colab.research.google.com/drive/1fQEVZUnbhDQ7dS7uJVggxOJJNtCOy0_P?usp=sharing" target="_blank">Python - 200 Exercícios (Colab)</a></li>
 </ul>
 
 <h2>Projetos Fullstack e Backend</h2>
@@ -46,7 +46,7 @@
   <li><a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a></li>
 </ul>
 
-<h2>Projetos e Exercícios SQL</h2>
+<h2>Projetos SQL</h2>
 <ul>
   <li><a href="https://github.com/sucloudflare/tcc-dio-sql" target="_blank">TCC DIO SQL</a></li>
   <li><a href="https://github.com/sucloudflare/projeto-04-sql" target="_blank">Projeto 04 SQL</a></li>
@@ -55,12 +55,12 @@
   <li><a href="https://github.com/sucloudflare/projeto-dio-mysql" target="_blank">Projeto DIO MySQL</a></li>
 </ul>
 
-<h2>Projetos C e Exercícios Harvard</h2>
+<h2>Projetos C (Harvard)</h2>
 <ul>
   <li><a href="https://github.com/sucloudflare/Linguagem-C" target="_blank">Linguagem C - Harvard</a></li>
 </ul>
 
-<h2>Projetos MaisPrati (Exercícios, Atividades e Desafios)</h2>
+<h2>Projetos MaisPrati</h2>
 <ul>
   <li><a href="https://github.com/sucloudflare/maisprati-5" target="_blank">MaisPrati 5</a></li>
   <li><a href="https://github.com/sucloudflare/maisprati-04" target="_blank">MaisPrati 04</a></li>
@@ -70,53 +70,51 @@
   <li><a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a></li>
 </ul>
 
-<!-- VISITANTES CORRIGIDO -->
+<!-- VISITANTES (somente serviços que funcionam em 2025) -->
 <p align="center"><strong>👀 Visitantes no perfil:</strong></p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sucloudflare.sucloudflare&left_color=grey&right_color=brightgreen" alt="Visitors" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=sucloudflare&color=58a6ff&style=flat-square&label=Visualiza%C3%A7%C3%B5es" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sucloudflare&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 <hr>
 
 <h2>🚀 Sobre Mim</h2>
-<p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação. Tenho experiência em diversas tecnologias e frameworks, e estou sempre em busca de novos desafios e aprendizados.</p>
+<p>Eu sou um desenvolvedor Full-Stack apaixonado por tecnologia e inovação.</p>
+
 <p><strong>🛡️ Pesquisador de Segurança Ofensiva (Bug Bounty)</strong><br>
    → HackerOne: <a href="https://hackerone.com/sucloudflare" target="_blank">hackerone.com/sucloudflare</a><br>
    → Bugcrowd: <a href="https://bugcrowd.com/sucloudflare" target="_blank">bugcrowd.com/sucloudflare</a></p>
 
 <h3>📚 Formação</h3>
 <ul>
-  <li><strong>Full-Stack Developer</strong> com especialização em:</li>
+  <li><strong>Full-Stack Developer</strong></li>
   <ul>
-    <li><strong>Spring Boot</strong> (Java)</li>
-    <li><strong>Node.js</strong></li>
+    <li>Spring Boot (Java)</li>
+    <li>Node.js</li>
   </ul>
 </ul>
 
 <h3>🛠️ Habilidades</h3>
 <ul>
-  <li><strong>Linguagens de Programação</strong>: Java, Python, JavaScript</li>
+  <li><strong>Linguagens</strong>: Java, Python, JavaScript</li>
   <li><strong>Front-End</strong>: React, Angular</li>
   <li><strong>Back-End</strong>: Spring Boot, Node.js</li>
   <li><strong>DevOps</strong>: Docker, Kubernetes</li>
   <li><strong>Cloud</strong>: AWS, Azure</li>
-  <li><strong>Security</strong>: Bug Bounty, Pentest, Web Vulnerabilities</li>
+  <li><strong>Security</strong>: Bug Bounty, Pentest, Web Vulns</li>
 </ul>
 
 <h2>🌐 Conecte-se Comigo</h2>
 <p align="center">
-  <a href="https://gitlab.com/sucloudflare/" target="_blank">🐙 GitLab</a> •
+  <a href="https://gitlab.com/sucloudflare" target="_blank">🐙 GitLab</a> •
   <a href="https://hackerone.com/sucloudflare" target="_blank">🛡️ HackerOne</a> •
   <a href="https://bugcrowd.com/sucloudflare" target="_blank">🛡️ Bugcrowd</a>
 </p>
 
-<!-- O resto continua 100% igual (estatísticas, snake, etc.) -->
 <h2>📈 Estatísticas do GitHub</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=10&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 <h2>🏆 Troféus do GitHub</h2>
@@ -138,35 +136,7 @@
   <img alt="Debian" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
 </p>
 
-<h2>🏆 Some Trophies and Stats</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sucloudflare&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sucloudflare&theme=github&utcOffset=-3"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sucloudflare&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sucloudflare&theme=github"/>
-</p>
-
-<details align="left">
-  <summary>📊 More Statistics (CLICA AQUI SEU CORNO 🔥)</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=radical&rank_icon=percentile&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&langs_count=20&theme=radical&hide_border=true"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=chartreuse-dark&hide_border=true&area=true"/>
-  </p>
-</details>
-
-<details open>
-  <summary>🎨 Streak Stats</summary>
-  <br>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=sucloudflare&theme=react&hide_border=true"/>
-  </p>
-</details>
-
 <h2 align="center">🐍 Snake</h2>
 <p align="center">
-  <img src="https://github.com/sucloudflare/sucloudflare/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sucloudflare/sucloudflare/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
