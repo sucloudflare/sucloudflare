@@ -98,17 +98,22 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub (SEM ERROS)
 
 <p align="center">
+
+  <!-- Stats estáveis -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://stats.dooboo.io/api/github-stats?login=sucloudflare&theme=tokyonight&show_icons=true"
   />
+
+  <!-- Linguagens estáveis -->
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://stats.dooboo.io/api/top-langs?login=sucloudflare&layout=compact&theme=tokyonight"
   />
+
 </p>
 
 ---
@@ -122,21 +127,21 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação.
 
 ## 📊 Linguagens Mais Usadas
 <p align="center">
-  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Debian" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img alt="Node.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Debian" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
 </p>
 
 ---
 
-<h2 align="center">🐍 Snake</h2>
+<h2 align="center">🐍 Snake (FUNCIONANDO)</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sucloudflare/sucloudflare/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sucloudflare/sucloudflare/output/snake.svg" alt="Snake animation" />
 </p>
