@@ -18,7 +18,7 @@
 - <a href="https://github.com/sucloudflare/digicad-frontend" target="_blank">Digicad Frontend — 50 exercícios</a>
 - <a href="https://github.com/sucloudflare/contador-react" target="_blank">Contador React</a>
 - <a href="https://github.com/sucloudflare/desafio-fullstack" target="_blank">Desafio Fullstack</a>
-- <a href="https://github.com/sucloudflare/primeiro-projeto-fullsatck" target="_blank">Primeiro Projeto Fullstack</a>
+- <a href="https://github.com/sucloudflare/primeiro-projeto-fullstack" target="_blank">Primeiro Projeto Fullstack</a>
 - <a href="https://github.com/sucloudflare/desafio-forum-alura" target="_blank">Desafio Fórum Alura</a>
 - <a href="https://github.com/sucloudflare/desafio-livro-alura" target="_blank">Desafio Livro Alura</a>
 - <a href="https://github.com/sucloudflare/desafio-livro" target="_blank">Desafio Livro</a>
@@ -56,7 +56,7 @@
 - <a href="https://github.com/sucloudflare/maisPraTI-2025-02" target="_blank">MaisPrati 2025-02</a>
 - <a href="https://github.com/sucloudflare/3-atividade-maisprati" target="_blank">3ª Atividade MaisPrati</a>
 - <a href="https://github.com/sucloudflare/atividade02-maisprati" target="_blank">Atividade 02 MaisPrati</a>
-- <a href="https://github.com/sucloudflare/exercicio01-maisparati" target="_blank">Exercício 01 MaisPrati</a>
+- <a href="https://github.com/sucloudflare/exercicio01-maisprati" target="_blank">Exercício 01 MaisPrati</a>
 
 ---
 
@@ -99,9 +99,7 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação.
 ---
 
 ## 📈 Estatísticas do GitHub (SEM ERROS)
-
 <p align="center">
-
   <!-- Stats estáveis -->
   <img 
     height="180em" 
@@ -113,7 +111,6 @@ Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia e inovação.
     height="180em" 
     src="https://stats.dooboo.io/api/top-langs?login=sucloudflare&layout=compact&theme=tokyonight"
   />
-
 </p>
 
 ---
