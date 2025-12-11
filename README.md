@@ -1,80 +1,39 @@
-<h1 align="center">👋 Hey, eu sou o Bruno (sucloudflare)</h1>
+<h1 align="center">👨‍💻 Bruno — Facilitador & Pesquisador Hacker</h1>
 
 <p align="center">
-  <img src="./assets/avatar-hacker.svg" width="140" alt="Avatar Hacker"/>
+  Exploro segurança ofensiva, automações e infraestrutura.  
+  Gosto de criar soluções simples que resolvem problemas reais.
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-Sou **Facilitador Google Cloud Arcade 2026** e **Pesquisador Hacker**, sempre estudando tecnologias, segurança ofensiva, nuvem e dev fullstack.
-
-Gosto de:
-
-- Segurança da Informação  
-- Google Cloud & DevOps  
-- Back-end e automações  
-- Projetos open source  
-- Testes, experimentos e pesquisa
-
----
-
-## 📊 Status do GitHub
-
+## 🔥 GitHub Status (-B • números fictícios, visual real)
 <p align="center">
-  <img src="./assets/github-stats-B.svg" width="780" alt="GitHub Stats -B"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&count_private=true&custom_title=Bruno+-B+GitHub+Status&hide_rank=false&include_all_commits=true&card_width=500&hide_title=false&text_bold=true&number_format=long&line_height=20&icon_color=white&ring_color=blue&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1&hide_border=true&disable_animations=false&rank_icon=percentile&fake=1&custom_stats=true&fake_commits=842&fake_stars=57&fake_prs=11&fake_issues=8"
+  />
 </p>
 
 ---
 
 ## 🛠️ Tecnologias que uso
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px">
-
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Security-000?style=for-the-badge&logo=protonvpn"/>
-<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,cloudflare,js,nodejs,html,css,git,github,docker,python,bash" />
+</p>
 
 ---
 
-## 🌩️ Google Cloud Arcade — Facilitador
-
-Atuo como Facilitador no programa **Google Cloud Arcade 2026**, apoiando estudantes em:
-
-- Missões gamificadas  
-- Laboratórios do Google Cloud Skill Boost  
-- Conceitos reais de computação em nuvem  
-- Treinamentos oficiais e orientações técnicas  
+## 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://github.com/sucloudflare">
+    <img src="https://img.shields.io/badge/GitHub-suclouflare-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🧪 Áreas de interesse
-
-- Pentest & Ethical Hacking  
-- CTFs e pesquisa em vulnerabilidades  
-- Arquitetura de segurança  
-- Desenvolvimento de ferramentas próprias  
-- Nuvem (GCP, Cloudflare, AWS)  
-- Sistemas distribuídos
-
----
-
-## 📫 Contato
-
-Se quiser trocar ideias ou colaborar:
-
-📌 https://github.com/sucloudflare
-
----
-
-<p align="center">Feito com 💚 por sucloudflare</p>
+## 📌 Sobre mim
+- Pesquisador hacker focado em automação e segurança ofensiva  
+- Facilitador que simplifica problemas complexos  
+- Gosto de criar ferramentas, monitorar infra e explorar ataques modernos  
+- Sempre aprendendo e construindo  
