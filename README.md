@@ -4,21 +4,20 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub (Mirror que funciona)
 
 <div align="center">
 
-  <!-- Card real de estatísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
+  <!-- Mirror 1: funciona mesmo quando o oficial cai -->
+  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
 
-  <!-- Card real de linguagens usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias que uso
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,postgres,git,github" height="48"/>
@@ -28,13 +27,12 @@
 
 ## ⚡ Sobre mim
 
-- Facilitador oficial do Google Cloud Arcade 2026  
-- Pesquisador hacker com foco em segurança, automação e cloud  
-- Desenvolvimento full-stack com Java, JavaScript, React, Node.js, APIs e bancos de dados  
+- Facilitador do Google Cloud Arcade 2026  
+- Pesquisador hacker (segurança, automação, cloud)  
+- Full-stack: Java, React, Node.js, APIs e bancos de dados  
 
 ---
 
-## 📬 Contato
+## 📬 GitHub
 
-GitHub: https://github.com/sucloudflare
-
+https://github.com/sucloudflare
