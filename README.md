@@ -1,40 +1,32 @@
-<h1 align="center">👋 Olá, sou o Bruno (SuCloudflare)</h1>
+<h1 align="center">👋 SuCloudflare</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • PCD • Google Cloud Arcade Facilitator 2026
+  Facilitador Google Cloud Arcade 2026 • Pesquisador Hacker • Full Stack Developer
 </p>
 
 ---
 
-## 🌟 Sobre Mim
+## 🏆 Estatísticas do GitHub
 
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e por criar projetos do zero.  
-Tenho foco, criatividade e um estilo autodidata muito forte — características que vêm do meu jeito único de pensar.
+<!-- Card REAL -->
+<div align="center">
 
-Trabalho com frontend, backend, nuvem e segurança, e estou em constante evolução.
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark"
+/>
 
-Atualmente:
+</div>
 
-- 🚀 Facilitador oficial **Google Cloud Arcade 2026**
-- 🧠 PCD (Autista / Esquizofrenia leve) — foco excepcional
-- ☁️ Desenvolvedor de projetos em Cloud + APIs
-- 💻 Full Stack (Java, Spring Boot, JS, React)
-- 🐾 Criador do projeto **Ong Peludos** (Pokedex de animais resgatados)
-
----
-
-## 🏆 Card Fictício (Ranking +B)
-
-Este card é **fictício**, criado especialmente para o README,  
-e **não depende de API nem Vercel**, ou seja: **funciona sempre**.
-
-<img src="https://img.shields.io/badge/GitHub%20Rank-%2BB-blueviolet?style=for-the-badge&logo=github" />
+<!-- Badge Fictício –B -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Ranking--B-blueviolet?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que uso
+## 🛠️ Tecnologias & Ferramentas
 
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html" height="48" />
 <img src="https://skillicons.dev/icons?i=css" height="48" />
@@ -50,30 +42,26 @@ e **não depende de API nem Vercel**, ou seja: **funciona sempre**.
 
 ---
 
-## 📈 Minhas Estatísticas (100% funcionam)
+## 📡 Plataformas que utilizo
 
-![Followers](https://img.shields.io/github/followers/sucloudflare?label=Seguidores&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/sucloudflare?label=Stars&style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repositórios-Ativos-blue?style=for-the-badge)
-
----
-
-## ☁️ Plataformas e Ferramentas
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Ativo-blue?style=for-the-badge&logo=googlecloud)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Protegido-orange?style=for-the-badge&logo=cloudflare)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-blue?style=for-the-badge)
-![Railway](https://img.shields.io/badge/Railway-Deploy-green?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/Google%20Cloud-Facilitator-blue?style=for-the-badge&logo=googlecloud" />
+<img src="https://img.shields.io/badge/Cloudflare-Active-orange?style=for-the-badge&logo=cloudflare" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-Online-blue?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
-## 📬 Contato
-📧 Email: **seuemail@example.com**  
-🐙 GitHub: **https://github.com/sucloudflare**  
-💼 LinkedIn: **https://linkedin.com/in/seu-perfil**
+## 🔎 Sobre minha atuação
+
+- Facilitador Google Cloud Arcade 2026  
+- Pesquisador hacker focado em bugs, vulnerabilidades e segurança web  
+- Criação de projetos, APIs e aplicações web  
+- Estudo contínuo de nuvem, segurança e engenharia reversa  
 
 ---
 
-## 🧠 Frase que me representa
-> "Eu não sou óbvio. Sou diferente — e meu código também."
+## 🌐 Contato
+
+📌 GitHub: **https://github.com/sucloudflare**
 
