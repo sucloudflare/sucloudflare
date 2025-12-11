@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥 GitHub Status (-B no título • card real funcional)
+## 🔥 GitHub Status 
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&custom_title=Bruno%20-%20B%20GitHub%20Status"
