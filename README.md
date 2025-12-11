@@ -1,46 +1,102 @@
+<h1 align="center">👋 Olá, eu sou o sucloudflare</h1>
+<p align="center">Desenvolvedor • Cloud • Full Stack • Segurança</p>
+
+<br>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sucloudflare?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/sucloudflare?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sucloudflare&style=for-the-badge" />
+</p>
+
+<br>
+
+<!-- GITHUB STATS -->
 <div align="center">
 
-# 🌑 Sucloudflare — Dark Premium Profile
+  <!-- Stats -->
+  <img 
+       height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark"
+  />
 
-### Desenvolvedor Full Stack • Facilitador Google Cloud 2026 • Cloud & Cybersecurity
-
----
-
-<img src="https://avatars.githubusercontent.com/sucloudflare" width="120" style="border-radius: 50%;" />
-
----
-
-## ⭐ Estatísticas do GitHub
-
-### 🌟 Total de Stars recebidas  
-**{{STAR_COUNT}}** ⭐  
-> Atualizado automaticamente todos os dias
-
----
-
-## 🧠 Tecnologias que domino
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,python,git,github,postgres,mysql,linux,docker,cloudflare,gcp,aws&theme=dark" />
-
----
-
-## 🏆 Badges (tema escuro)
-
-<img src="https://img.shields.io/badge/FullStack-Developer-1a1a1a?style=for-the-badge&color=black&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-Facilitator%202026-1a1a1a?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-User-1a1a1a?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-Worker-1a1a1a?style=for-the-badge&logo=cloudflare&logoColor=white" />
-
----
-
-## 🔗 Links
-
-<a href="https://github.com/sucloudflare">
-  <img src="https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sucloudflare">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <!-- Most Used Languages -->
+  <img 
+       height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark"
+  />
 
 </div>
+
+<br><br>
+
+<!-- TROPHY -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=onedark&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<br><br>
+
+<!-- STREAK -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sucloudflare&theme=dark" />
+</div>
+
+<br><br>
+
+<!-- SKILLS -->
+<h2 align="center">🚀 Tecnologias que uso</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="65"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="65"/><br>React</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="65"/><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="65"/><br>Google Cloud</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap</td>
+  </tr>
+</table>
+
+<br><br>
+
+<!-- ABOUT ME -->
+<h2 align="center">📌 Sobre mim</h2>
+
+<p align="center">
+🌩️ Facilitador oficial do Google Cloud Arcade<br>
+💻 Desenvolvedor Full Stack e apaixonado por tecnologia<br>
+☁️ Cloud | Segurança | DevOps | Web<br>
+✨ Sempre aprendendo e criando projetos novos
+</p>
+
+<br><br>
+
+<!-- CONTACT -->
+<h2 align="center">📬 Contato</h2>
+
+<p align="center">
+  <a href="https://github.com/sucloudflare">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/edson-bruno">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+</p>
+
+<br><br>
+
+<!-- FOOTER -->
+<p align="center">
+  Feito com ❤️ por <strong>sucloudflare</strong>
+</p>
