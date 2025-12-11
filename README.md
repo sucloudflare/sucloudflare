@@ -18,9 +18,6 @@
   <img height="180em" 
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
 
-  <img height="180em"
-       src="https://github-readme-stats-cool.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
-
 </div>
 
 <br><br>
