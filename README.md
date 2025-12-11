@@ -1,77 +1,66 @@
-<h1 align="center">👋 Olá, eu sou o sucloudflare</h1>
-<p align="center">Desenvolvedor • Cloud • Segurança • Full Stack</p>
+<h1 align="center">👋 Olá, sou o Edson Bruno</h1>
 
-<br>
-
-<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sucloudflare?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sucloudflare?label=Stars&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=sucloudflare&style=for-the-badge" />
+  Desenvolvedor Full Stack | Java | Spring Boot | JavaScript | React | HTML | CSS  
 </p>
 
-<br>
+---
 
-<!-- STATS + FALLBACK -->
-<div align="center">
+## 🚀 Sobre mim
+- PCD (Autista / Esquizofrênico leve) — diferente, focado e criativo  
+- Apaixonado por desenvolvimento e tecnologia  
+- Sempre estudando para melhorar  
+- Trabalho com Java, Spring, PostgreSQL, React e projetos web  
 
-  <img height="180em" 
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
+---
+
+## 🛠️ Tecnologias que uso
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
 
 </div>
 
-<br><br>
+---
 
-<!-- LANGUAGES + FALLBACK -->
-<div align="center">
+## 📊 Estatísticas do GitHub
 
-  <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
+### 🔥 Atividade Geral
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&bg_color=00000000)
 
-  <img height="180em"
-       src="https://github-readme-stats-cool.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
+### 💬 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&bg_color=00000000)
 
-</div>
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)
 
-<br><br>
+---
 
-<h2 align="center">🚀 Tecnologias que uso</h2>
+## ☁️ Hospedagens que uso
+- **Cloudflare Pages** — rápido, seguro e sem downtime  
+- **GitHub Pages** — para projetos estáticos  
+- **Railway / Render** — para APIs  
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="65"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="65"/><br>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="65"/><br>React</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="65"/><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="65"/><br>GCP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="65"/><br>Bootstrap</td>
-  </tr>
-</table>
+---
 
-<br><br>
+## 📬 Contato
+📧 Email: **seuemail@example.com**  
+🐙 GitHub: **https://github.com/SEU_USERNAME**  
+💼 LinkedIn: **https://linkedin.com/in/SEU_USERNAME**
 
-<h2 align="center">📬 Contato</h2>
+---
 
-<p align="center">
-  <a href="https://github.com/sucloudflare">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/edson-bruno">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-</p>
+## 🧠 Frase que me representa
+> “Sou diferente, mas eficiente. Faço o simples com impacto.”
 
-<br><br>
+---
 
-<p align="center">
-  Feito com ❤️ por <strong>sucloudflare</strong>
-</p>
