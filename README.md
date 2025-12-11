@@ -15,40 +15,24 @@
 <!-- STATS + FALLBACK -->
 <div align="center">
 
-  <!-- Stats Principal -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
 
-  <!-- Stats Fallback (se cair) -->
-  <img height="180em" src="https://github-readme-stats-cool.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
-
-</div>
-
-<br><br>
-
-
-<br><br>
-
-<!-- TROPHY + FALLBACK -->
-<div align="center">
-
-  <!-- Principal -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=onedark&column=4&margin-w=15&margin-h=15" />
-
-  <!-- Fallback -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&column=4" />
+  <img height="180em"
+       src="https://github-readme-stats-cool.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
 
 </div>
 
 <br><br>
 
-<!-- STREAK + FALLBACK -->
+<!-- LANGUAGES + FALLBACK -->
 <div align="center">
 
-  <!-- Principal -->
-  <img src="https://streak-stats.demolab.com/?user=sucloudflare&theme=dark" />
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
 
-  <!-- Fallback -->
-  <img src="https://streak-stats.demolab.com?user=sucloudflare" />
+  <img height="180em"
+       src="https://github-readme-stats-cool.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
 
 </div>
 
