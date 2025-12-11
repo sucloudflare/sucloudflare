@@ -1,0 +1,30 @@
+name: Update GitHub Star Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia às 00h
+  workflow_dispatch:       # permite rodar manualmente
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get stars count
+        run: |
+          echo "STARS=$(curl -s https://api.github.com/users/sucloudflare/repos | jq '[.[] | .stargazers_count] | add')" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/{{STAR_COUNT}}/${STARS}/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Atualizando total de estrelas" || echo "Sem mudanças"
+          git push
