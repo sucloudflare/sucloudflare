@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o sucloudflare</h1>
-<p align="center">Desenvolvedor • Cloud • Full Stack • Segurança</p>
+<p align="center">Desenvolvedor • Cloud • Segurança • Full Stack</p>
 
 <br>
 
@@ -12,40 +12,58 @@
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- STATS + FALLBACK -->
 <div align="center">
 
-  <!-- Stats -->
-  <img 
-       height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark"
-  />
+  <!-- Stats Principal -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
 
-  <!-- Most Used Languages -->
-  <img 
-       height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark"
-  />
+  <!-- Stats Fallback (se cair) -->
+  <img height="180em" src="https://github-readme-stats-cool.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
 
 </div>
 
 <br><br>
 
-<!-- TROPHY -->
+<!-- LANGUAGES + FALLBACK -->
 <div align="center">
+
+  <!-- Principal -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
+
+  <!-- Fallback -->
+  <img height="180em" src="https://github-readme-stats-cool.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
+
+</div>
+
+<br><br>
+
+<!-- TROPHY + FALLBACK -->
+<div align="center">
+
+  <!-- Principal -->
   <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=onedark&column=4&margin-w=15&margin-h=15" />
+
+  <!-- Fallback -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&column=4" />
+
 </div>
 
 <br><br>
 
-<!-- STREAK -->
+<!-- STREAK + FALLBACK -->
 <div align="center">
+
+  <!-- Principal -->
   <img src="https://streak-stats.demolab.com/?user=sucloudflare&theme=dark" />
+
+  <!-- Fallback -->
+  <img src="https://streak-stats.demolab.com?user=sucloudflare" />
+
 </div>
 
 <br><br>
 
-<!-- SKILLS -->
 <h2 align="center">🚀 Tecnologias que uso</h2>
 
 <table align="center">
@@ -59,7 +77,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="65"/><br>AWS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="65"/><br>Google Cloud</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="65"/><br>GCP</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="65"/><br>Linux</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="65"/><br>GitHub</td>
@@ -69,19 +87,6 @@
 
 <br><br>
 
-<!-- ABOUT ME -->
-<h2 align="center">📌 Sobre mim</h2>
-
-<p align="center">
-🌩️ Facilitador oficial do Google Cloud Arcade<br>
-💻 Desenvolvedor Full Stack e apaixonado por tecnologia<br>
-☁️ Cloud | Segurança | DevOps | Web<br>
-✨ Sempre aprendendo e criando projetos novos
-</p>
-
-<br><br>
-
-<!-- CONTACT -->
 <h2 align="center">📬 Contato</h2>
 
 <p align="center">
@@ -96,7 +101,6 @@
 
 <br><br>
 
-<!-- FOOTER -->
 <p align="center">
   Feito com ❤️ por <strong>sucloudflare</strong>
 </p>
