@@ -1,38 +1,80 @@
-# 👋 Sucloudflare
+<h1 align="center">👋 Hey, eu sou o Bruno (sucloudflare)</h1>
 
-**Facilitador Google Cloud Arcade 2026 · Pesquisador Hacker · Full Stack Developer**
+<p align="center">
+  <img src="./assets/avatar-hacker.svg" width="140" alt="Avatar Hacker"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub (Mirror que funciona)
+## 🧑‍💻 Sobre mim
 
-<div align="center">
+Sou **Facilitador Google Cloud Arcade 2026** e **Pesquisador Hacker**, sempre estudando tecnologias, segurança ofensiva, nuvem e dev fullstack.
 
-  <!-- Mirror 1: funciona mesmo quando o oficial cai -->
-  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark" />
+Gosto de:
 
-  <img src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
+- Segurança da Informação  
+- Google Cloud & DevOps  
+- Back-end e automações  
+- Projetos open source  
+- Testes, experimentos e pesquisa
 
-</div>
+---
+
+## 📊 Status do GitHub
+
+<p align="center">
+  <img src="./assets/github-stats-B.svg" width="780" alt="GitHub Stats -B"/>
+</p>
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,postgres,git,github" height="48"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
+
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Security-000?style=for-the-badge&logo=protonvpn"/>
+<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+
 </div>
 
 ---
 
-## ⚡ Sobre mim
+## 🌩️ Google Cloud Arcade — Facilitador
 
-- Facilitador do Google Cloud Arcade 2026  
-- Pesquisador hacker (segurança, automação, cloud)  
-- Full-stack: Java, React, Node.js, APIs e bancos de dados  
+Atuo como Facilitador no programa **Google Cloud Arcade 2026**, apoiando estudantes em:
+
+- Missões gamificadas  
+- Laboratórios do Google Cloud Skill Boost  
+- Conceitos reais de computação em nuvem  
+- Treinamentos oficiais e orientações técnicas  
 
 ---
 
-## 📬 GitHub
+## 🧪 Áreas de interesse
 
-https://github.com/sucloudflare
+- Pentest & Ethical Hacking  
+- CTFs e pesquisa em vulnerabilidades  
+- Arquitetura de segurança  
+- Desenvolvimento de ferramentas próprias  
+- Nuvem (GCP, Cloudflare, AWS)  
+- Sistemas distribuídos
+
+---
+
+## 📫 Contato
+
+Se quiser trocar ideias ou colaborar:
+
+📌 https://github.com/sucloudflare
+
+---
+
+<p align="center">Feito com 💚 por sucloudflare</p>
