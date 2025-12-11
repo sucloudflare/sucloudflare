@@ -25,16 +25,6 @@
 
 <br><br>
 
-<!-- LANGUAGES + FALLBACK -->
-<div align="center">
-
-  <!-- Principal -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
-
-  <!-- Fallback -->
-  <img height="180em" src="https://github-readme-stats-cool.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark" />
-
-</div>
 
 <br><br>
 
