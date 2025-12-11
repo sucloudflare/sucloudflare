@@ -1,99 +1,91 @@
-<h1 align="center">👋 Olá — eu sou o Bruno (sucloudflare)</h1>
-<p align="center">Desenvolvedor Full Stack | Cloud | DevOps | Open Source</p>
+<!-- Perfil / Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;Cloud+Enthusiast;Google+Cloud+Facilitator+2026" />
+</div>
 
-<hr>
+<br>
 
-<h2>📊 Estatísticas e Cards</h2>
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight" />
+</div>
 
-<!-- BADGES -->
-<p>
-  <img src="https://img.shields.io/github/followers/sucloudflare?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sucloudflare?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-count/sucloudflare?label=Repositórios&style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/sucloudflare/sucloudflare?label=Top%20Language&style=for-the-badge" />
-</p>
+<br>
 
-<hr>
+<!-- GitHub Streak -->
+<div align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=SEU_USERNAME_AQUI&theme=tokyonight" />
+</div>
 
-<!-- GITHUB STATS -->
-<h2>🔥 GitHub Stats</h2>
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=radical&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=radical" />
-</p>
+<br>
 
-<hr>
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME_AQUI&theme=react-dark&hide_border=true&area=true" />
+</div>
 
-<!-- STREAK -->
-<h2>📈 Streak (Dias Seguidos Programando)</h2>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sucloudflare&theme=radical" />
-</p>
+<br>
 
-<hr>
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME_AQUI&theme=dracula&margin-w=10" />
+</div>
 
-<!-- TROPHIES -->
-<h2>🏆 GitHub Trophies</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=radical&margin-w=10" />
-</p>
+<br>
 
-<hr>
+<!-- Metrics (perfil consistente) -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/SEU_USERNAME_AQUI?template=classic&base.indepth=true&base.hireable=true&config.timezone=America/Sao_Paulo" />
+</div>
 
-<!-- ACTIVITY GRAPH -->
-<h2>📈 Gráfico de Atividade</h2>
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sucloudflare&theme=github" />
-</p>
+<br>
 
-<hr>
+<!-- Snake Game -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USERNAME_AQUI/SEU_USERNAME_AQUI/output/github-contribution-grid-snake.svg" />
+</div>
 
-<!-- VISITOR COUNTER -->
-<h2>👁️ Contador de Visitas</h2>
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sucloudflare.sucloudflare" />
-</p>
+<br>
 
-<hr>
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=blueviolet&style=for-the-badge" />
+</div>
 
-<h2>🛠️ Tecnologias</h2>
-<ul>
-  <li><b>Linguagens:</b> Java, JavaScript, Python, C</li>
-  <li><b>Frontend:</b> React, Angular, HTML, CSS</li>
-  <li><b>Backend:</b> Spring Boot, Node.js</li>
-  <li><b>Banco de Dados:</b> PostgreSQL, SQLite, MongoDB</li>
-  <li><b>Cloud:</b> Google Cloud, AWS, Azure</li>
-  <li><b>DevOps:</b> Docker, Kubernetes, CI/CD</li>
-</ul>
+<br>
 
-<hr>
+<!-- Followers -->
+<div align="center">
+  <img src="https://img.shields.io/github/followers/SEU_USERNAME_AQUI?style=for-the-badge&color=blue" />
+</div>
 
-<h2>🚀 Projetos em destaque</h2>
-<ul>
-  <li><a href="https://github.com/sucloudflare/OngPeludos">OngPeludos (ONG)</a></li>
-  <li><a href="#">Digicad Frontend – 50 exercícios</a></li>
-  <li><a href="#">Contador React</a></li>
-  <li><a href="#">Primeiro Projeto Fullstack</a></li>
-</ul>
+<br>
 
-<hr>
+<!-- WakaTime (se tiver conta) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_AQUI&theme=tokyonight" />
+</div>
 
-<h2>📫 Contatos</h2>
-<p>
-  <a href="https://www.linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<br>
+
+<!-- Badges de Tecnologias -->
+<h2 align="center">🚀 Tecnologias que uso</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,python,git,github,postgres,mysql,aws,gcp,cloudflare,docker,linux" />
+</div>
+
+<br>
+
+<!-- Contato -->
+<h2 align="center">📫 Entre em contato</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_USERNAME_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<hr>
-
-<h2>🤝 Quer contribuir?</h2>
-<ol>
-  <li>Abra uma issue explicando sua ideia.</li>
-  <li>Faça um fork e crie uma branch <code>feature/nome-da-funcao</code>.</li>
-  <li>Envie seu Pull Request.</li>
-</ol>
-
+</div>
