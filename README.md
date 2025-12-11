@@ -1,54 +1,54 @@
-<h1 align="center">👋 Olá, sou o Edson Bruno</h1>
+<h1 align="center">👋 Olá, sou o Edson Bruno (SuCloudflare)</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Java | Spring Boot | JavaScript | React | HTML | CSS  
+  Desenvolvedor Full Stack • Java • Spring Boot • React • HTML • CSS • JavaScript
 </p>
 
 ---
 
-## 🚀 Sobre mim
-- PCD (Autista / Esquizofrênico leve) — diferente, focado e criativo  
-- Apaixonado por desenvolvimento e tecnologia  
-- Sempre estudando para melhorar  
-- Trabalho com Java, Spring, PostgreSQL, React e projetos web  
+## 🚀 Sobre Mim
+- PCD (Autista / Esquizofrênico leve) — foco extremo e criatividade acima da média  
+- Apaixonado por programação e tecnologia  
+- Estudando e evoluindo todos os dias  
+- Experiência com APIs, Frontend e integrações  
 
 ---
 
 ## 🛠️ Tecnologias que uso
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+
+<img src="https://skillicons.dev/icons?i=html" height="48" />
+<img src="https://skillicons.dev/icons?i=css" height="48" />
+<img src="https://skillicons.dev/icons?i=javascript" height="48" />
+<img src="https://skillicons.dev/icons?i=react" height="48" />
+<img src="https://skillicons.dev/icons?i=java" height="48" />
+<img src="https://skillicons.dev/icons?i=spring" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres" height="48" />
+<img src="https://skillicons.dev/icons?i=git" height="48" />
+<img src="https://skillicons.dev/icons?i=github" height="48" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Minhas Estatísticas (sempre funcionam)
 
-### 🔥 Atividade Geral
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&bg_color=00000000)
+### ⭐ Repositórios públicos
+![Repos](https://img.shields.io/badge/Repositórios-Ativos-blue?style=for-the-badge)
 
-### 💬 Linguagens Mais Usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&bg_color=00000000)
+### 👨‍💻 Seguidores
+![Followers](https://img.shields.io/github/followers/SEU_USERNAME?label=Seguidores&style=for-the-badge)
 
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)
+### ⭐ Stars recebidas
+![Stars](https://img.shields.io/github/stars/SEU_USERNAME?label=Stars&style=for-the-badge)
 
 ---
 
-## ☁️ Hospedagens que uso
-- **Cloudflare Pages** — rápido, seguro e sem downtime  
-- **GitHub Pages** — para projetos estáticos  
-- **Railway / Render** — para APIs  
+## ☁️ Plataformas e Ferramentas que uso
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Activado-orange?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Online-blue?style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-Deploy-green?style=for-the-badge)
 
 ---
 
@@ -60,7 +60,5 @@
 ---
 
 ## 🧠 Frase que me representa
-> “Sou diferente, mas eficiente. Faço o simples com impacto.”
-
----
+> "Sou diferente. E é justamente isso que faz meu código único."
 
