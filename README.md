@@ -8,19 +8,26 @@
 
 ## 🏆 Estatísticas do GitHub
 
-<!-- Card REAL -->
 <div align="center">
 
+<!-- 📊 Card REAL de Stats -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark"
+  src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&cache_seconds=600"
+  height="180"
+/>
+
+<!-- ⭐ Card REAL de Stars -->
+<p>
+  <img src="https://img.shields.io/github/stars/sucloudflare?style=for-the-badge&label=GitHub%20Stars&logo=github" />
+</p>
+
+<!-- 🔤 Card REAL de Linguagens -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark&cache_seconds=600"
+  height="180"
 />
 
 </div>
-
-<!-- Badge Fictício –B -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Ranking--B-blueviolet?style=for-the-badge&logo=github" />
-</p>
 
 ---
 
@@ -42,7 +49,17 @@
 
 ---
 
-## 📡 Plataformas que utilizo
+## ⚡ Atuação
+
+- Facilitador do **Google Cloud Arcade 2026**  
+- Pesquisador hacker (security research & bug finding)  
+- Desenvolvimento full stack e APIs  
+- Projetos web e segurança de aplicações  
+- Estudo contínuo em nuvem, pentest e engenharia reversa  
+
+---
+
+## ☁️ Plataformas que utilizo
 
 <p align="center">
 <img src="https://img.shields.io/badge/Google%20Cloud-Facilitator-blue?style=for-the-badge&logo=googlecloud" />
@@ -52,16 +69,6 @@
 
 ---
 
-## 🔎 Sobre minha atuação
-
-- Facilitador Google Cloud Arcade 2026  
-- Pesquisador hacker focado em bugs, vulnerabilidades e segurança web  
-- Criação de projetos, APIs e aplicações web  
-- Estudo contínuo de nuvem, segurança e engenharia reversa  
-
----
-
 ## 🌐 Contato
 
 📌 GitHub: **https://github.com/sucloudflare**
-
