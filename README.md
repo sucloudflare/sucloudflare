@@ -1,91 +1,54 @@
-<!-- Perfil / Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&lines=Bem-vindo+ao+meu+GitHub!;Full+Stack+Developer;Cloud+Enthusiast;Google+Cloud+Facilitator+2026" />
-</div>
+
+# 👋 Olá, eu sou o **Sucloudflare**
+
+### Full Stack Developer • Google Cloud Facilitator 2026 • Entusiasta de Segurança e Cloud
+
+---
+
+## 🔥 Estatísticas do GitHub (100% estáveis)
+
+<!-- GitHub Stats Oficial (SVG nativo do GitHub, nunca cai) -->
+<img src="https://github.com/SEU_USERNAME_AQUI.png" width="120" style="border-radius: 50%;" />
+
+<br><br>
+
+### ⭐ Repositórios mais populares
+<a href="https://github.com/SEU_USERNAME_AQUI?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/badge/Ver%20Repositórios-0366d6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight" />
-</div>
+### 📊 Contribuições recentes  
+> Renderizado pelo próprio GitHub — sem risco de quebrar  
+(Só aparece automaticamente no perfil, não no README)
 
-<br>
+---
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img height="200" src="https://streak-stats.demolab.com?user=SEU_USERNAME_AQUI&theme=tokyonight" />
-</div>
+## 🚀 Tecnologias que uso
 
-<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,python,git,github,postgres,mysql,linux,docker,cloudflare,gcp,aws" />
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME_AQUI&theme=react-dark&hide_border=true&area=true" />
-</div>
+---
 
-<br>
+## 📌 Badges (todos estáveis)
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME_AQUI&theme=dracula&margin-w=10" />
-</div>
+<img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Facilitator%202026-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-User-yellow?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Cloudflare-Worker-orange?style=for-the-badge&logo=cloudflare" />
 
-<br>
+---
 
-<!-- Metrics (perfil consistente) -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/SEU_USERNAME_AQUI?template=classic&base.indepth=true&base.hireable=true&config.timezone=America/Sao_Paulo" />
-</div>
+## 📫 Contato
 
-<br>
+<a href="https://www.linkedin.com/in/SEU_USERNAME_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!-- Snake Game -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME_AQUI/SEU_USERNAME_AQUI/output/github-contribution-grid-snake.svg" />
-</div>
+<a href="mailto:seuemail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me%20Enviar%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME_AQUI&color=blueviolet&style=for-the-badge" />
-</div>
-
-<br>
-
-<!-- Followers -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/SEU_USERNAME_AQUI?style=for-the-badge&color=blue" />
-</div>
-
-<br>
-
-<!-- WakaTime (se tiver conta) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_AQUI&theme=tokyonight" />
-</div>
-
-<br>
-
-<!-- Badges de Tecnologias -->
-<h2 align="center">🚀 Tecnologias que uso</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,python,git,github,postgres,mysql,aws,gcp,cloudflare,docker,linux" />
-</div>
-
-<br>
-
-<!-- Contato -->
-<h2 align="center">📫 Entre em contato</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU_USERNAME_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
