@@ -7,10 +7,10 @@
 
 ---
 
-## 🔥 GitHub Status (-B • números fictícios, visual real)
+## 🔥 GitHub Status (-B no título • card real 100% funcional)
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&count_private=true&custom_title=Bruno+-B+GitHub+Status&hide_rank=false&include_all_commits=true&card_width=500&hide_title=false&text_bold=true&number_format=long&line_height=20&icon_color=white&ring_color=blue&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1&hide_border=true&disable_animations=false&rank_icon=percentile&fake=1&custom_stats=true&fake_commits=842&fake_stars=57&fake_prs=11&fake_issues=8"
+    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&custom_title=Bruno%20-%20B%20GitHub%20Status"
   />
 </p>
 
