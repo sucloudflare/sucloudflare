@@ -17,7 +17,7 @@
 
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=darkhub"
+  src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=darkhub&no-frame=true&column=4"
 />
 
 
