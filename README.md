@@ -13,9 +13,6 @@
   />
 </p>
 
-<img src="https://img.shields.io/badge/Commits-Ativo-success" />
-<img src="https://img.shields.io/badge/Open%20Source-Contribuidor-blue" />
-
 
 ---
 
