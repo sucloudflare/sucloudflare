@@ -17,8 +17,9 @@
 
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=darkhub&no-frame=true&column=4"
+  src="https://img.shields.io/badge/GitHub-Active-black?logo=github"
 />
+
 
 
 ## 🛠️ Tecnologias que uso
