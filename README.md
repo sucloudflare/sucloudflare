@@ -15,6 +15,12 @@
 
 ---
 
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=sucloudflare&theme=darkhub"
+/>
+
+
 ## 🛠️ Tecnologias que uso
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,cloudflare,js,nodejs,html,css,git,github,docker,python,bash" />
