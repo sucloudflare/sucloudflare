@@ -9,7 +9,7 @@
 ## 🔥 GitHub Status 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&custom_title=Bruno%20-%20B%20GitHub%20Status"
+    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=tokyonight&cache_seconds=60"
   />
 </p>
 
