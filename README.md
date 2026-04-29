@@ -19,7 +19,7 @@
 
 
 
-## 📊 Métricas Reais do GitHub
+## 📊 Métricas do GitHub
 
 
 <p align="center">
