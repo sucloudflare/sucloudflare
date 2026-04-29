@@ -19,14 +19,18 @@
 
 
 
-## 🌍 Status Global (estimado)
+## 🌍 Status Global (real baseado em estatísticas GitHub)
 
 <p align="center">
-  🧠 Você está entre os <b>Top 12% desenvolvedores ativos no GitHub</b> 🌎
+  🧠 Rank baseado em métricas reais do GitHub (commits, PRs, stars e followers)
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Rank-Top%2012%25-brightgreen?style=for-the-badge" />
+  📊 Classificação global: <b>A- (Top ~37.5%)</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Rank-A--37.5%25-blue?style=for-the-badge" />
 </p>
 
 
