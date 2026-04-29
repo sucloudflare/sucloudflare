@@ -37,7 +37,7 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sucloudflare&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=react-dark" />
 
 
 
