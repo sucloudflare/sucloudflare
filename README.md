@@ -16,6 +16,28 @@
 
 ---
 
+
+
+
+## 🌍 Status Global (estimado)
+
+<p align="center">
+  🧠 Você está entre os <b>Top 12% desenvolvedores ativos no GitHub</b> 🌎
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Rank-Top%2012%25-brightgreen?style=for-the-badge" />
+</p>
+
+
+
+
+
+
+
+
+
+
 ## 🛠️ Tecnologias que uso
 
 <p align="center">
