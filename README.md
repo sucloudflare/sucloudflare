@@ -37,6 +37,26 @@
 
 
 
+
+## 📊 Métricas Reais
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sucloudflare&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=react-dark&hide_border=true" />
+</p>
+
+
+
+
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=react-dark" />
 
 
