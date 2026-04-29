@@ -21,11 +21,6 @@
 
 ## 📊 Métricas Reais do GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&hide_title=false"
-  />
-</p>
 
 <p align="center">
   <img 
