@@ -39,40 +39,6 @@
 
 
 
-## 🐛 Security & Issues (Real)
-
-<p align="center">
-  📌 Issues e reports são baseados em dados reais do GitHub API<br>
-  🔒 Inclui issues, bugs e possíveis reports de segurança públicos
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Issues%20Created-Tracked-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security%20Reports-Analyzed-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRs%20Security-Checked-green?style=for-the-badge" />
-</p>
-
----
-
-## 📊 Links de Métricas Reais
-
-<p align="center">
-  🐛 Issues criadas por você:<br>
-  https://github.com/search?q=type%3Aissue+author%3Asucloudflare&type=issues
-</p>
-
-<p align="center">
-  🔒 Security issues (filtradas):<br>
-  https://github.com/search?q=type%3Aissue+author%3Asucloudflare+label%3Asecurity&type=issues
-</p>
-
-<p align="center">
-  ⚙️ Pull Requests relacionados:<br>
-  https://github.com/search?q=type%3Apr+author%3Asucloudflare&type=pullrequests
-</p>
-
-
-
 
 
 
