@@ -19,20 +19,25 @@
 
 
 
-## 🌍 Status Global (real baseado em estatísticas GitHub)
+## 📊 Métricas Reais do GitHub
 
 <p align="center">
-  🧠 Rank baseado em métricas reais do GitHub (commits, PRs, stars e followers)
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&hide_title=false"
+  />
 </p>
 
 <p align="center">
-  📊 Classificação global: <b>A- (Top ~37.5%)</b>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sucloudflare&theme=dark"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Rank-A--37.5%25-blue?style=for-the-badge" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucloudflare&layout=compact&theme=dark"
+  />
 </p>
-
 
 
 
