@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Bruno — Facilitador & Pesquisador Hacker</h1>
+<h1 align="center">👨‍💻 Bruno — Pesquisador Hacker</h1>
 
 <p align="center">
   Explorando segurança ofensiva, automações e infraestrutura.
