@@ -8,7 +8,7 @@
 ## 🔥 GitHub Status
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&custom_title=Bruno%20-%20B%20GitHub%20Status" 
+    src="https://github-readme-stats.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&custom_title=Bruno%20-%20B%20GitHub%20Status" 
   />
 </p>
 
@@ -17,7 +17,7 @@
 ## 📊 Métricas do GitHub
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sucloudflare&theme=dark"
+    src="https://streak-stats.demolab.com/?user=sucloudflare&theme=dark"
   />
 </p>
 
