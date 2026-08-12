@@ -1,0 +1,17 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # roda 1x por dia (meia-noite UTC)
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: sucloudflare
+          # Usa o próprio GITHUB_TOKEN do Actions — sem precisar configurar PAT
+          github_token: ${{ secrets.GITHUB_TOKEN }}
