@@ -7,15 +7,23 @@
 
 ## 🔥 GitHub Status
 <p align="center">
-  <img src="./generated/overview.svg" />
-  <img src="./generated/languages.svg" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sucloudflare&show_icons=true&theme=dark&custom_title=Bruno%20-%20B%20GitHub%20Status" 
+  />
 </p>
 
-<!--
-  Gerado automaticamente pelo workflow generate-stats.yml (GitHub Actions),
-  sem depender de nenhum servidor externo em runtime — logo sem rate limit.
-  Os arquivos SVG ficam na pasta /generated do próprio repositório.
--->
+---
+
+## 📊 Métricas do GitHub
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sucloudflare&theme=dark"
+  />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sucloudflare&theme=react-dark" />
+</p>
 
 ---
 
