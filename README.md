@@ -11,7 +11,8 @@
   Nos últimos meses venho dedicando tempo à pesquisa de segurança,
   identificação e reporte de possíveis vulnerabilidades em programas
   públicos e privados — de aplicações web e APIs a smart contracts DeFi,
-  além de contribuições em projetos open source e participação em CTFs e VDPs.
+  além de contribuições em projetos open source (de OpenSSL e Protocol Buffers
+  ao kernel Linux) e participação em CTFs e VDPs.
 </p>
 
 <p>
@@ -101,7 +102,7 @@
     <tr>
       <td><strong>Coinbase Developer Platform</strong></td>
       <td>IDOR crítico — leitura de configuração MFA de outro projeto usando cookie de sessão alheio (HackerOne #3858295)</td>
-      <td>Aprovado em revisão preliminar, bounty alto estimado</td>
+      <td>Aprovado em revisão preliminar</td>
     </tr>
     <tr>
       <td><strong>NASA Launchpad (sandbox)</strong></td>
@@ -121,12 +122,12 @@
     <tr>
       <td><strong>Origin Protocol (arm-oeth)</strong></td>
       <td>Amplificação de perda por slashing via <code>lidoWithdrawalQueueAmount</code> desatualizado</td>
-      <td>Confirmado por mantenedor, issue fechada como resolvida</td>
+      <td>Confirmado por mantenedor, issue fechada como concluída</td>
     </tr>
     <tr>
       <td><strong>Chainlink Payment Abstraction V2</strong> (Code4rena)</td>
       <td>Execução arbitrária via <code>AuctionBidder._multiCall</code> e falta de bounds de oráculo no <code>PriceManager</code></td>
-      <td>Findings HIGH confirmados e submetidos</td>
+      <td>Findings HIGH submetidos</td>
     </tr>
     <tr>
       <td><strong>Metric</strong> (Sherlock contest)</td>
@@ -141,12 +142,17 @@
     <tr>
       <td><strong>Protocol Buffers (Google)</strong></td>
       <td>Overflow de inteiro com sinal em <code>ReadPackedFixed</code>/<code>ReadPackedVarintArrayWithField</code> — heap buffer overflow</td>
-      <td>Fuzz target adicionado (PR #27699) + projeto OSS-Fuzz protobuf-cpp proposto</td>
+      <td>Fuzz test proposto (PR #27699); reporte enviado ao Google</td>
+    </tr>
+    <tr>
+      <td><strong>Protocol Buffers (Google OSS VRP)</strong></td>
+      <td>Heap use-after-free no iterador de maps (<code>map_container.cc</code>)</td>
+      <td>Correção mesclada no upstream</td>
     </tr>
     <tr>
       <td><strong>cosmos/evm</strong></td>
-      <td>Griefing determinístico: <code>precompileCallsCounter</code> não revertido no journal revert, exaurindo o limite por transação</td>
-      <td>PR #1094 (fix proposto)</td>
+      <td>Griefing: <code>precompileCallsCounter</code> não revertido no journal revert, exaurindo o limite por transação</td>
+      <td>PR #1094 fechado — mantenedores não consideraram bug</td>
     </tr>
   </tbody>
 </table>
@@ -160,22 +166,19 @@
     <strong>hak5/usbrubberducky-payloads</strong> — <a href="https://github.com/hak5/usbrubberducky-payloads/pull/583" target="_blank" rel="noopener noreferrer">PR #583</a>:
     <em>HID Sentinel IR v1.0</em>, payload defensivo que transforma o Rubber Ducky em um sentinela anti-BadUSB
     (detecção de USB rogue via WMI em tempo real + monitoramento comportamental de PowerShell), feito para o Hak5 Payload Awards
-  </li>
-  <li>
-    <strong>google/oss-fuzz</strong> — <a href="https://github.com/google/oss-fuzz/pull/15580" target="_blank" rel="noopener noreferrer">PR #15580</a>:
-    novo alvo de fuzzing <code>protobuf-cpp</code> para a vulnerabilidade de overflow em campos packed do Protocol Buffers
+    — em revisão, alterações solicitadas já aplicadas
   </li>
   <li>
     <strong>protocolbuffers/protobuf</strong> — <a href="https://github.com/protocolbuffers/protobuf/pull/27699" target="_blank" rel="noopener noreferrer">PR #27699</a>:
-    fuzz test para o mesmo overflow, cobrindo packed int32, fixed32, bool e fixed64
+    fuzz test para o overflow em campos packed, cobrindo packed int32, fixed32, bool e fixed64
+  </li>
+  <li>
+    <strong>google/oss-fuzz</strong> — <a href="https://github.com/google/oss-fuzz/pull/15580" target="_blank" rel="noopener noreferrer">PR #15580</a>:
+    alvo de fuzzing <code>protobuf-cpp</code> para o mesmo overflow — fechado pelos mantenedores por depender de adesão do time do protobuf ao OSS-Fuzz
   </li>
   <li>
     <strong>openssl/openssl</strong> — <a href="https://github.com/openssl/openssl/pull/31394" target="_blank" rel="noopener noreferrer">PR #31394</a>:
     fix de double free em <code>evp_keyexch_init()</code>
-  </li>
-  <li>
-    <strong>cosmos/evm</strong> — <a href="https://github.com/cosmos/evm/pull/1094" target="_blank" rel="noopener noreferrer">PR #1094</a>:
-    correção de journal revert que previne exaustão de limite de chamadas a precompiles
   </li>
   <li>
     <strong>rapid7/metasploit-framework</strong> — <a href="https://github.com/rapid7/metasploit-framework/pull/21546" target="_blank" rel="noopener noreferrer">PR #21546</a> e
@@ -186,11 +189,24 @@
 
 <h3>Outras contribuições open source</h3>
 <p>
-  PRs de features e correções em <code>calcom/cal.diy</code> (integração Office365 Video),
-  <code>tscircuit</code> (schematic-trace-solver, pcb-viewer, sparkfun-boards, autorouter, winterspec, circuit-json-to-readable-netlist)
+  PRs mesclados em <code>google/flatbuffers</code> e <code>calcom/cal.diy</code> (integração Office365 Video / MS Teams),
+  além de PRs em <code>tscircuit</code> (schematic-trace-solver, pcb-viewer, sparkfun-boards, autorouter, winterspec, circuit-json-to-readable-netlist)
   e diversos repositórios pessoais/acadêmicos.
   Perfil completo de PRs e issues disponível no GitHub.
 </p>
+
+<h3>🚧 Em andamento</h3>
+<ul>
+  <li>
+    <strong>Kernel Linux</strong> — patch de hardening no driver <code>exc3000</code> (touchscreen):
+    zero-inicialização dos buffers de resposta do vendor, com revisão em andamento antes do envio à lista linux-input.
+    Uso de IA declarado via trailer <code>Assisted-by</code>.
+  </li>
+  <li>
+    <strong>nasa/spacewasm</strong> — <a href="https://github.com/nasa/spacewasm/issues/209" target="_blank" rel="noopener noreferrer">issue #209</a>:
+    48 de 150 operações Wasm sem teste unitário dedicado; aguardando resposta dos mantenedores antes de propor PRs.
+  </li>
+</ul>
 
 ---
 
@@ -242,6 +258,15 @@
       </td>
     </tr>
     <tr>
+      <td><strong>Kernel / Sistemas</strong></td>
+      <td>
+        <code>Linux kernel</code>
+        <code>Drivers</code>
+        <code>C</code>
+        <code>Rust</code>
+      </td>
+    </tr>
+    <tr>
       <td><strong>AI Safety</strong></td>
       <td>
         <code>Prompt Injection</code>
@@ -256,7 +281,7 @@
 
 <h2>🛠️ Tecnologias que uso</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,cloudflare,js,nodejs,html,css,git,github,docker,python,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,cloudflare,js,nodejs,html,css,git,github,docker,python,bash,c,rust" />
 </p>
 
 ---
