@@ -88,6 +88,37 @@
 
 ---
 
+<h2>🏅 Reconhecimentos</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Organização</th>
+      <th>Reconhecimento</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>30/10/2026</td>
+      <td><strong>TP-Link Systems Inc.</strong></td>
+      <td>
+        Carta de agradecimento do <em>Product Security Team</em> pela divulgação responsável
+        de feedback de segurança sobre um de seus produtos e serviços, destacando a
+        diligência, o compromisso ético e a proatividade na comunicação do problema.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="carta.jpeg" alt="Carta de agradecimento da TP-Link Systems Inc. pela divulgação responsável de segurança" width="600" />
+  <br />
+  <sub>Carta de agradecimento da TP-Link Systems Inc. — Product Security Team (30/10/2026)</sub>
+</p>
+
+---
+
 <h2>🔐 Vulnerabilidades e achados de segurança</h2>
 
 <table>
@@ -99,6 +130,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><strong>TP-Link</strong></td>
+      <td>Divulgação responsável de feedback de segurança sobre produto/serviço da empresa</td>
+      <td>Carta de agradecimento recebida do Product Security Team (30/10/2026)</td>
+    </tr>
     <tr>
       <td><strong>Coinbase Developer Platform</strong></td>
       <td>IDOR crítico — leitura de configuração MFA de outro projeto usando cookie de sessão alheio (HackerOne #3858295)</td>
