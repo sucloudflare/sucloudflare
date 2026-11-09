@@ -133,7 +133,7 @@
     <tr>
       <td><strong>mdbtools</strong></td>
       <td>Heap buffer overflow (off-by-one) em <code>mdb-sql</code> (<code>src/util/mdb-sql.c</code>) via arquivo <code>.sql</code> malicioso; confirmado com AddressSanitizer (duas variantes de gatilho) e patch de uma linha proposto</td>
-      <td>Corrigido no upstream (branch <code>dev</code>); tratado pelo mantenedor como bugfix comum, sem CVE</td>
+      <td>Corrigido no upstream (branch <code>dev</code>, commit <code>3d19ef5</code>); tratado pelo mantenedor como bugfix comum, sem CVE; crédito na mensagem do commit (GHSA-v65c-2xmr-6vh2) e nas notas do próximo lançamento</td>
     </tr>
     <tr>
       <td><strong>TP-Link</strong></td>
@@ -208,6 +208,14 @@
     hardening do tratamento da sample table (<code>stsc</code>/<code>stss</code>) contra underflow de inteiro unsigned,
     encontrado em varredura com <code>-fsanitize=unsigned-integer-overflow</code>; inclui dois PoCs e teste de regressão
     (<code>AvifDecodeTest.SampleTableInvalidValues</code>)
+    — aberto, aguardando CLA e revisão
+  </li>
+  <li>
+    <strong>AOMediaCodec/libavif</strong> — <a href="https://github.com/AOMediaCodec/libavif/pull/3451" target="_blank" rel="noopener noreferrer">PR #3451</a>:
+    corrige overflow unsigned no acúmulo de <code>sample_count</code> do <code>stts</code> em <code>avifSampleTableGetImageDelta()</code>
+    (acumulador <code>uint32_t</code> dava wrap e produzia timestamps e durações errados em sequências de imagens);
+    acumulador passa a ser <code>uint64_t</code>; inclui PoC e teste de regressão
+    (<code>AvifDecodeTest.SampleTableTimingAccumulationOverflow</code>)
     — aberto, aguardando CLA e revisão
   </li>
   <li>
