@@ -11,8 +11,8 @@
   Nos últimos meses venho dedicando tempo à pesquisa de segurança,
   identificação e reporte de possíveis vulnerabilidades em programas
   públicos e privados — de aplicações web e APIs a smart contracts DeFi,
-  além de contribuições em projetos open source (de OpenSSL e Protocol Buffers
-  ao kernel Linux) e participação em CTFs e VDPs.
+  além de contribuições em projetos open source (de OpenSSL, Protocol Buffers,
+  libpcap e libavif ao kernel Linux) e participação em CTFs e VDPs.
 </p>
 
 <p>
@@ -131,6 +131,11 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong>mdbtools</strong></td>
+      <td>Heap buffer overflow (off-by-one) em <code>mdb-sql</code> (<code>src/util/mdb-sql.c</code>) via arquivo <code>.sql</code> malicioso; confirmado com AddressSanitizer (duas variantes de gatilho) e patch de uma linha proposto</td>
+      <td>Corrigido no upstream (branch <code>dev</code>); tratado pelo mantenedor como bugfix comum, sem CVE</td>
+    </tr>
+    <tr>
       <td><strong>TP-Link</strong></td>
       <td>Divulgação responsável de feedback de segurança sobre produto/serviço da empresa</td>
       <td>Carta de agradecimento recebida do Product Security Team (30/10/2026)</td>
@@ -199,6 +204,24 @@
 
 <ul>
   <li>
+    <strong>AOMediaCodec/libavif</strong> — <a href="https://github.com/AOMediaCodec/libavif/pull/3450" target="_blank" rel="noopener noreferrer">PR #3450</a>:
+    hardening do tratamento da sample table (<code>stsc</code>/<code>stss</code>) contra underflow de inteiro unsigned,
+    encontrado em varredura com <code>-fsanitize=unsigned-integer-overflow</code>; inclui dois PoCs e teste de regressão
+    (<code>AvifDecodeTest.SampleTableInvalidValues</code>)
+    — aberto, aguardando CLA e revisão
+  </li>
+  <li>
+    <strong>the-tcpdump-group/libpcap</strong> — <a href="https://github.com/the-tcpdump-group/libpcap/pull/1805" target="_blank" rel="noopener noreferrer">PR #1805</a>:
+    reordena as checagens de limites nas cargas <code>BPF_LD|BPF_IND</code> (W, H, B) em <code>bpf_filter.c</code>
+    para validar antes de somar <code>X + k</code>, evitando overflow unsigned (ref. issue #1730)
+    — aberto
+  </li>
+  <li>
+    <strong>php/frankenphp</strong> — <a href="https://github.com/php/frankenphp/pull/2825" target="_blank" rel="noopener noreferrer">PR #2825</a> (merged):
+    documentação — <code>str_shuffle()</code> também continua a sequência do PRNG com seed no worker mode,
+    pois consome o mesmo estado global MT19937 de <code>mt_rand()</code>/<code>shuffle()</code>/<code>array_rand()</code>
+  </li>
+  <li>
     <strong>hak5/usbrubberducky-payloads</strong> — <a href="https://github.com/hak5/usbrubberducky-payloads/pull/583" target="_blank" rel="noopener noreferrer">PR #583</a>:
     <em>HID Sentinel IR v1.0</em>, payload defensivo que transforma o Rubber Ducky em um sentinela anti-BadUSB
     (detecção de USB rogue via WMI em tempo real + monitoramento comportamental de PowerShell), feito para o Hak5 Payload Awards
@@ -241,6 +264,11 @@
   <li>
     <strong>nasa/spacewasm</strong> — <a href="https://github.com/nasa/spacewasm/issues/209" target="_blank" rel="noopener noreferrer">issue #209</a>:
     48 de 150 operações Wasm sem teste unitário dedicado; aguardando resposta dos mantenedores antes de propor PRs.
+  </li>
+  <li>
+    <strong>pypa/pip</strong> — <a href="https://github.com/pypa/pip/issues/14432" target="_blank" rel="noopener noreferrer">issue #14432</a>:
+    <code>pip config edit</code> expande <code>$(...)</code> no caminho do arquivo de configuração por usar <code>shell=True</code>;
+    em discussão com os mantenedores sobre uma alternativa compatível com <code>$EDITOR</code>.
   </li>
 </ul>
 
@@ -289,7 +317,10 @@
       <td>
         <code>C/C++</code>
         <code>OSS-Fuzz</code>
+        <code>AddressSanitizer</code>
+        <code>UBSan</code>
         <code>Integer Overflow</code>
+        <code>Heap Overflow</code>
         <code>Use-After-Free</code>
       </td>
     </tr>
