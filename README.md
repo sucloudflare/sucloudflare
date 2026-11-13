@@ -17,7 +17,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/sucloudflare?style=social)
 <a href="https://www.codefactor.io/repository/github/sucloudflare/capyber">
-  <img src="https://www.codefactor.io/repository/github/sucloudflare/capyber/badge" alt="CodeFactor" height="35" />
+  <img src="https://www.codefactor.io/repository/github/sucloudflare/capyber/badge" alt="CodeFactor" height="150px" />
 </a>
 
 <p>
