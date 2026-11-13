@@ -16,6 +16,7 @@
 </p>
 
 ![GitHub stars](https://img.shields.io/github/stars/sucloudflare?style=social)
+[![CodeFactor](https://www.codefactor.io/repository/github/sucloudflare/capyber/badge)]
 
 <p>
   Este projeto reúne informações públicas relacionadas à trajetória
