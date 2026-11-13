@@ -15,6 +15,8 @@
   libpcap e libavif ao kernel Linux) e participação em CTFs e VDPs.
 </p>
 
+![GitHub stars](https://img.shields.io/github/stars/sucloudflare?style=social)
+
 <p>
   Este projeto reúne informações públicas relacionadas à trajetória
   de <strong>sucloudflare0x00</strong> em segurança da informação.
